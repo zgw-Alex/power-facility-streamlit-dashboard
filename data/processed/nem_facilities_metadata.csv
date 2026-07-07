@@ -1,0 +1,433 @@
+facility_code,facility_name,network_id,network_region,latitude_api,longitude_api,facility_type,registered_capacity_mw
+ADP,Adelaide Desalination,NEM,SA1,-35.100751,138.483357,"battery, battery_charging, battery_discharging, hydro, solar_utility",49.69
+ALDGASF,Aldoga,NEM,QLD1,-23.839544,151.0849,solar_utility,535.21
+ANGASTON,Angaston,NEM,SA1,-34.503389,139.02458,distillate,50.0
+APPIN,Appin,NEM,NSW1,-34.210868,150.792711,gas_wcmg,55.6
+ARWF,Ararat,NEM,VIC1,-37.263393,143.082116,wind,241.59
+AVLSF,Avonlie,NEM,NSW1,-34.913826,146.590545,solar_utility,254.1
+DEIBDL,Bairnsdale,NEM,VIC1,-37.842918,147.563855,gas_ocgt,92.0
+BAKING,Baking Board,NEM,QLD1,-26.720639,150.553781,solar_utility,17.5
+BHWF,Bald Hills,NEM,VIC1,-38.746897,145.949104,wind,106.6
+BALBESS,Ballarat,NEM,VIC1,-37.567603,143.919894,"battery, battery_charging, battery_discharging",90.0
+BANGOWF,Bango,NEM,NSW1,-34.767208,148.921499,wind,243.8
+BAPS,Banimboola,NEM,VIC1,-36.534342,147.45934,hydro,12.85
+BANNSP,Bannerton,NEM,VIC1,-34.687324,142.77895,solar_utility,100.0
+BARCALDN,Barcaldine,NEM,QLD1,-23.552279,145.314856,gas_ccgt,37.0
+BARCSF,Barcaldine,NEM,QLD1,-23.547776,145.318817,solar_utility,20.0
+BARKIPS,Barker Inlet,NEM,SA1,-34.803695,138.523864,gas_recip,211.0
+BARRON,Barron Gorge,NEM,QLD1,-16.850852,145.646758,hydro,60.0
+BASTYAN,Bastyan,NEM,TAS1,-41.736045,145.532064,hydro,79.9
+BAYSW,Bayswater,NEM,NSW1,-32.394981,150.94949,coal_black,2640.0
+BBP31,Bell Bay Three,NEM,TAS1,-41.139324,146.905522,gas_ocgt,163.0
+BRYB1WF1,Berrybank,NEM,VIC1,-37.885519,143.453446,wind,289.6
+BERYLSF,Beryl,NEM,NSW1,-32.356446,149.470517,solar_utility,98.0
+BIALAWF,Biala,NEM,NSW1,-34.587836,149.369848,wind,110.0
+BLAYNEY,Blayney,NEM,NSW1,-33.621944,149.198333,wind,9.9
+SNOWY6,Blowering,NEM,NSW1,-35.398563,148.246201,hydro,80.0
+BLUEGSF,Blue Grass,NEM,QLD1,-26.682643,150.504537,solar_utility,183.0
+BLYTHB,Blyth,NEM,SA1,-33.848475,138.403204,"battery, battery_charging, battery_discharging",843.0
+BOCOROCK,Boco Rock,NEM,NSW1,-36.574527,149.124863,wind,113.18
+BODWF,Bodangora,NEM,NSW1,-32.414669,149.099633,wind,113.19
+MCKAY,Bogong / Mackay,NEM,VIC1,-36.858282,147.234146,hydro,300.0
+BOLIVAR,Bolivar,NEM,SA1,-34.495482,138.387641,"battery, battery_charging, battery_discharging, bioenergy_biogas, solar_utility",27.310000000000002
+BOLIVPS,Bolivar,NEM,SA1,-34.7772,138.5826,gas_ocgt,128.0
+BOMENSF,Bomen,NEM,NSW1,-35.046577,147.442585,solar_utility,121.0
+BBATTERY,Bouldercombe,NEM,QLD1,-23.535251,150.489057,"battery, battery_charging, battery_discharging",201.0
+BRAEMARA,Braemar,NEM,QLD1,-27.110488,150.905683,gas_ocgt,504.0
+B2PS,Braemar 2,NEM,QLD1,-27.112874,150.905442,gas_ocgt,519.0
+BRNDBES,Brendale,NEM,QLD1,-27.329333,152.974384,"battery, battery_charging, battery_discharging",645.0
+BRDD,Broadsound,NEM,QLD1,-22.810001,149.36302,"battery, battery_charging, battery_discharging, solar_utility",1088.0
+BWTR1,Broadwater,NEM,NSW1,-29.016483,153.445756,bioenergy_biomass,38.0
+BHILLGT,Broken Hill,NEM,NSW1,-31.986313,141.42062,distillate,50.0
+BROKENH,Broken Hill,NEM,NSW1,-31.987538,141.391994,solar_utility,53.0
+BHB,Broken Hill Battery,NEM,NSW1,-31.986306,141.422951,"battery, battery_charging, battery_discharging",198.0
+BROOKLYN,Brooklyn,NEM,VIC1,-37.818597,144.828492,bioenergy_biogas,2.83
+BROWNMT,Brown Mountain,NEM,NSW1,-36.594993,149.473997,hydro,5.0
+BPLANDF,Browns Plains,NEM,QLD1,-27.674584,153.068499,bioenergy_biogas,2.0
+BULGANA,Bulgana Green Power Hub,NEM,VIC1,-37.039507,142.982799,"battery, battery_charging, battery_discharging, wind",276.0
+BUSF,Bundaberg,NEM,QLD1,-24.943515,152.020698,solar_utility,101.0
+BNGSF1,Bungala One,NEM,SA1,-32.415846,137.841225,solar_utility,135.0
+BNGSF2,Bungala Two,NEM,SA1,-32.415846,137.841225,solar_utility,135.0
+BUNGAMB,Bungama,NEM,SA1,-33.191223,138.08733,"battery, battery_charging, battery_discharging",651.0
+BDONGHYD,Burrendong,NEM,NSW1,-32.664624,149.107959,hydro,19.0
+BURRIN,Burrinjuck,NEM,NSW1,-35.003008,148.582864,hydro,34.0
+BUTLERSG,Butlers Gorge,NEM,TAS1,-42.266898,146.261823,hydro,14.4
+CALL_B,Callide B,NEM,QLD1,-24.346016,150.61856,coal_black,700.0
+CALLIDEC1,Callide C,NEM,QLD1,-24.346016,150.61856,coal_black,886.0
+CANUNDA1,Canunda,NEM,SA1,-37.698303,140.383633,wind,46.0
+CAPBES,Capital,NEM,NSW1,-35.338251,149.215529,"battery, battery_charging, battery_discharging",375.0
+CAPTL_WF,Capital,NEM,NSW1,-35.123534,149.500249,wind,140.0
+CESF,Capital East,NEM,NSW1,-35.180684,149.546482,solar_utility,0.2
+CRWARP,Carwarp,NEM,VIC1,-34.454955,142.15808,solar_utility,186.0
+LI_WY_CA,Catagunya / Liapootah / Wayatinah,NEM,TAS1,-42.376279,146.510051,hydro,173.7
+CATHROCK,Cathedral Rocks,NEM,SA1,-34.848741,135.592649,wind,66.0
+CTHLWF,Cattle Hill,NEM,TAS1,-42.149661,146.724045,wind,148.0
+CETHANA,Cethana,NEM,TAS1,-41.480804,146.134511,hydro,85.0
+CHALLWF,Challicum Hills,NEM,VIC1,-37.395466,143.10459,wind,52.5
+CHPSTWF,Chepstowe,NEM,VIC1,-37.596503,143.499582,wind,6.15
+CHYTWF,Cherry Tree,NEM,VIC1,-37.1018,145.2656,wind,57.6
+CHILDSF,Childers,NEM,QLD1,-25.305189,152.402663,solar_utility,64.38
+CHBESS,Chinchilla,NEM,QLD1,-26.918551,150.745399,"battery, battery_charging, battery_discharging",402.0
+CBWWBA,Christies Beach,NEM,SA1,-35.125958,138.47135,"battery, battery_charging, battery_discharging, bioenergy_biogas, distillate, solar_utility",13.530000000000001
+CLARESF,Clare,NEM,QLD1,-19.839817,147.204884,solar_utility,110.26
+CLRKCWF,Clarke Creek,NEM,QLD1,-22.850446,149.453252,wind,449.0
+CLAYTON,Clayton,NEM,VIC1,-37.950618,145.119681,bioenergy_biogas,11.0
+CLEMGPWF,Clements Gap,NEM,SA1,-33.489773,138.111695,"battery, battery_charging, battery_discharging, wind",328.5
+CLERMSF,Clermont,NEM,QLD1,-22.837763,147.579322,solar_utility,92.0
+CLOVER,Clover,NEM,VIC1,-36.785257,147.220466,hydro,37.5
+CLUNY,Cluny,NEM,TAS1,-42.506442,146.68104,hydro,19.0
+CODRGTON,Codrington,NEM,VIC1,-38.282875,141.95496,wind,18.2
+COHUNSF1,Cohuna,NEM,VIC1,-35.886553,144.217421,solar_utility,31.1
+COLEASF,Coleambally,NEM,NSW1,-34.762456,145.928786,solar_utility,180.0
+COLWF01,Collector,NEM,NSW1,-34.862066,149.388245,wind,226.0
+CSPVPS,Collinsville,NEM,QLD1,-20.541215,147.807432,solar_utility,42.0
+COLONGRA,Colongra,NEM,NSW1,-33.209801,151.544968,gas_ocgt,724.0
+COLUMSF,Columboola,NEM,QLD1,-26.633781,150.298894,solar_utility,217.0
+CPSA,Condamine A,NEM,QLD1,-26.668181,150.270023,gas_ccgt,143.0
+CONDONG1,Condong,NEM,NSW1,-28.314766,153.433808,bioenergy_biomass,30.0
+CBWF,Coonoer Bridge,NEM,VIC1,-36.415237,143.380189,wind,19.8
+COOPGWF,Coopers Gap,NEM,QLD1,-26.717004,151.449177,wind,452.0
+COPTNHYD,Copeton,NEM,NSW1,-29.910174,150.92348,hydro,22.5
+CRWASF1,Corowa,NEM,NSW1,-35.979325,146.359356,solar_utility,36.0
+CROOKWEL,Crookwell,NEM,NSW1,-34.5165,149.54248,wind,4.8
+CROOKWF2,Crookwell 2,NEM,NSW1,-34.556855,149.609565,wind,96.04
+CROOKWF3,Crookwell 3,NEM,NSW1,-34.484645,149.54447,wind,57.0
+CROWLWF,Crowlands,NEM,VIC1,-36.97615,143.097998,wind,79.95
+CRURWF1,Crudine Ridge,NEM,NSW1,-32.864748,149.81297,wind,141.0
+CULCSF,Culcairn,NEM,NSW1,-35.709592,146.981761,solar_utility,466.0
+CULLERIN,Cullerin Range,NEM,NSW1,-34.809208,149.399185,wind,30.0
+DALNTH,Dalrymple North,NEM,SA1,-34.933952,137.743532,"battery, battery_charging, battery_discharging",90.0
+DDPS1,Darling Downs,NEM,QLD1,-27.116855,150.894761,gas_ccgt,644.0
+DDSF,Darling Downs,NEM,QLD1,-27.113797,150.879733,solar_utility,121.0
+DARLSF,Darlington Point,NEM,NSW1,-34.648971,146.061179,solar_utility,324.0
+DPNTB,Darlington Point,NEM,NSW1,-34.647016,146.035236,"battery, battery_charging, battery_discharging",75.0
+DARTM,Dartmouth,NEM,VIC1,-36.556485,147.520456,hydro,185.0
+DAYDSF,Daydream,NEM,QLD1,-20.479752,147.763711,solar_utility,167.0
+DEVILS_G,Devils Gate,NEM,TAS1,-41.350513,146.263394,hydro,60.0
+DIAPURWF,Diapur 2,NEM,VIC1,-36.339953,141.447361,wind,8.0
+DRYCGT,Dry Creek,NEM,SA1,-34.847703,138.5816,gas_ocgt,156.0
+DULAWF,Dulacca,NEM,QLD1,-26.631438,149.867554,wind,180.0
+DUNDWF,Dundonnell,NEM,VIC1,-37.863894,142.943454,wind,335.0
+EASTCRK,Eastern Creek,NEM,NSW1,-33.815468,150.854307,bioenergy_biogas,5.06
+EASTCRK2,Eastern Creek 2,NEM,NSW1,-33.815468,150.854307,bioenergy_biogas,6.74
+EDENVSF,Edenvale,NEM,QLD1,-26.931732,150.582727,solar_utility,180.0
+EILDON,Eildon,NEM,VIC1,-37.221982,145.921476,hydro,120.0
+EILDONPD,Eildon,NEM,VIC1,-37.221774,145.922582,hydro,4.5
+ELAINEWF,Elaine,NEM,VIC1,-37.6352,144.0237,wind,83.6
+EMERASF,Emerald,NEM,QLD1,-23.507996,148.126404,solar_utility,88.0
+ERARING,Eraring,NEM,NSW1,-33.061039,151.51984,coal_black,2880.0
+ERB,Eraring,NEM,NSW1,-33.066837,151.515026,"battery, battery_charging, battery_discharging",1843.8000000000002
+ERGT01,Eraring,NEM,NSW1,-33.062117,151.517224,distillate,41.5
+FWF,Ferguson,NEM,VIC1,-38.610902,143.179321,wind,12.0
+FINLEYSF,Finley,NEM,NSW1,-35.648941,145.50575,solar_utility,162.36
+FISHER,Fisher,NEM,TAS1,-41.673312,146.268511,hydro,43.2
+FLYCRKWF,Flyers Creek,NEM,NSW1,-33.517716,149.052949,wind,145.0
+GANGARR,Gangarri,NEM,QLD1,-26.270557,149.758054,solar_utility,162.0
+GANNBESS,Gannawarra,NEM,VIC1,-35.734598,143.779894,"battery, battery_charging, battery_discharging",90.0
+GANNSF,Gannawarra,NEM,VIC1,-35.729012,143.783189,solar_utility,55.0
+GERMCRK,German Creek,NEM,QLD1,-22.928526,148.549097,gas_wcmg,45.0
+GIRGSF,Girgarre,NEM,VIC1,-36.426125,144.922155,solar_utility,93.31
+GSTONE,Gladstone,NEM,QLD1,-23.853641,151.217515,coal_black,1680.0
+GLBWNHYD,Glenbawn,NEM,NSW1,-32.107937,150.999481,hydro,5.5
+GESF,Glenellen,NEM,NSW1,-35.929882,146.909107,solar_utility,264.0
+GLENMAGG,Glenmaggie,NEM,VIC1,-37.904836,146.800388,hydro,3.8
+GLENNCRK,Glennies Creek,NEM,NSW1,-32.459876,151.128697,gas_wcmg,12.78
+GLENSF,Glenrowan,NEM,VIC1,-36.464,146.221,solar_utility,126.0
+GLRWNSF,Glenrowan West,NEM,VIC1,-36.4907,146.157473,solar_utility,132.0
+GPWFEST,Golden Plains East,NEM,VIC1,-37.9729,143.783,wind,756.4
+GPWFWST,Golden Plains West,NEM,VIC1,-37.90844,143.664887,wind,266.0
+GOONUMSF,Goonumbla,NEM,NSW1,-33.109212,148.092982,solar_utility,85.0
+GOESF1,Goorambat East,NEM,VIC1,-36.427352,145.918853,solar_utility,348.6
+GORDON,Gordon,NEM,TAS1,-42.740519,145.982796,hydro,457.0
+GSWF,Goyder South,NEM,SA1,-33.682196,138.936249,wind,412.0
+GRANGEAV,Grange Avenue,NEM,NSW1,-33.713011,150.83316,bioenergy_biogas,2.0
+GRANWF,Granville Harbour,NEM,TAS1,-41.778439,145.065517,wind,110.0
+GREENB,Greenbank,NEM,QLD1,-27.733562,152.955042,"battery, battery_charging, battery_discharging",777.5999999999999
+GRIFSF,Griffith,NEM,NSW1,-34.317617,146.121416,solar_utility,27.2
+GROSV1,Grosvenor 1,NEM,QLD1,-21.929194,148.032416,gas_wcmg,21.0
+GROSV2,Grosvenor 2,NEM,QLD1,-21.929194,148.032416,gas_wcmg,15.21
+GULLRGWF,Gullen Range,NEM,NSW1,-34.615245,149.45808,"solar_utility, wind",175.0
+GNNDHSF,Gunnedah,NEM,NSW1,-30.937263,150.344174,solar_utility,144.0
+GUNNING,Gunning,NEM,NSW1,-34.691531,149.373013,wind,46.5
+GUSF,Gunsynd,NEM,QLD1,-28.408388,150.343437,solar_utility,122.78
+SNOWY3,Guthega,NEM,NSW1,-36.350097,148.413602,hydro,60.0
+HLMSEW01,Hallam,NEM,VIC1,-38.143332,145.119964,hydro,0.25
+HALAMRD,Hallam Road,NEM,VIC1,-38.052181,145.267798,bioenergy_biogas,8.98
+AGLHAL,Hallett,NEM,SA1,-33.349528,138.751607,gas_ocgt,217.0
+HALLWF,Hallett 1,NEM,SA1,-33.328434,138.704669,wind,95.0
+HALLWF2,Hallett 2,NEM,SA1,-33.53821,138.857215,wind,71.4
+HAMISF,Hamilton,NEM,QLD1,-20.496081,147.738803,solar_utility,57.5
+HAMPTON,Hampton,NEM,NSW1,-33.649722,150.05,wind,1.32
+HVWW,Happy Valley,NEM,SA1,-35.063118,138.56476,"battery, battery_charging, battery_discharging, solar_utility",26.0
+HASTING,Hastings,NEM,VIC1,-38.295952,145.221926,gas_ocgt,44.46
+HAUGHT1,Haughton,NEM,QLD1,-19.750134,147.048103,solar_utility,132.0
+HD1WF,Hawkesdale,NEM,VIC1,-38.148008,142.360925,wind,94.6
+HAYMSF,Hayman,NEM,QLD1,-20.510097,147.755711,solar_utility,57.75
+HBESS,Hazelwood BESS,NEM,VIC1,-38.267845,146.390293,"battery, battery_charging, battery_discharging",600.0
+HEPWIND,Hepburn,NEM,VIC1,-37.424555,144.115711,wind,4.1
+HILLSTN,Hillston Sun,NEM,NSW1,-33.531624,145.52242,solar_utility,110.0
+HORNSDAL,Hornsdale,NEM,SA1,-33.05982,138.537673,wind,102.4
+HORNSDAL2,Hornsdale 2,NEM,SA1,-33.05982,138.537673,wind,102.4
+HORNSDAL3,Hornsdale 3,NEM,SA1,-33.05982,138.537673,wind,112.0
+HORNSDPR,Hornsdale Power Reserve,NEM,SA1,-33.086389,138.518659,"battery, battery_charging, battery_discharging",450.0
+HUGSF,Hughenden,NEM,QLD1,-20.85484,144.186257,solar_utility,20.97
+HUMENSW,Hume,NEM,NSW1,-36.106639,147.032526,hydro,29.0
+HUMEV,Hume,NEM,VIC1,-36.106887,147.032572,hydro,29.0
+HUNTER,Hunter,NEM,NSW1,-32.793406,151.478353,gas_ocgt,750.0
+HEZ,Hunter Economic Zone,NEM,NSW1,-32.835481,151.451033,distillate,28.0
+INVICTA,Invicta Sugar Mill,NEM,QLD1,-19.520476,147.107439,bioenergy_biomass,50.3
+ICSM,Isis Central Sugar Mill,NEM,QLD1,-25.197619,152.206949,bioenergy_biomass,25.0
+JACKSGUL,Jacks Gully,NEM,NSW1,-34.072955,150.743691,bioenergy_biogas,2.3
+JEERA,Jeeralang A,NEM,VIC1,-38.275046,146.425572,gas_ocgt,204.0
+JEERB,Jeeralang B,NEM,VIC1,-38.273845,146.424827,gas_ocgt,228.0
+JEMALNG1,Jemalong,NEM,NSW1,-33.409099,147.655008,solar_utility,55.0
+JNDSHPS,Jindabyne,NEM,NSW1,-36.434918,148.63057,hydro,1.1
+SNWYGJP2,Jindabyne Pump At Guthega,NEM,NSW1,-36.434918,148.63057,pumps,70.0
+JBUTTERS,John Butters,NEM,TAS1,-42.154894,145.534508,hydro,144.0
+JOUNAMA,Jounama,NEM,NSW1,-35.562015,148.305493,hydro,14.0
+JUNEESF,Junee,NEM,NSW1,-34.814929,147.572334,solar_utility,36.0
+KABANWF,Kaban,NEM,QLD1,-17.560606,145.413125,wind,156.0
+KARSF,Karadoc,NEM,VIC1,-34.411851,142.250443,solar_utility,104.0
+KAREEYA,Kareeya,NEM,QLD1,-17.767013,145.577993,hydro,91.0
+KEEPIT,Keepit,NEM,NSW1,-30.87868,150.491876,hydro,6.0
+KENNEDY,Kennedy Energy Park,NEM,QLD1,-20.872792,144.413034,"battery_charging, battery_discharging, solar_utility, wind",63.2
+KERNGSP,Kerang,NEM,VIC1,-35.779895,143.941051,solar_utility,37.0
+KIAMSF1,Kiamal,NEM,VIC1,-35.021508,142.297971,solar_utility,239.0
+KIATAWF,Kiata,NEM,VIC1,-36.397288,141.747394,wind,31.0
+KSP1,Kidston,NEM,QLD1,-18.889381,144.14246,solar_utility,50.0
+KINGASF,Kingaroy,NEM,QLD1,-26.537087,151.890398,solar_utility,47.0
+KOGANCK,Kogan Creek,NEM,QLD1,-26.915285,150.748948,coal_black,744.0
+KESS1,Koorangie,NEM,VIC1,-35.735367,143.754813,"battery, battery_charging, battery_discharging",555.0
+LADBROKE,Ladbroke Grove,NEM,SA1,-37.456341,140.782163,gas_ocgt,80.0
+LBBESS,Lake Bonney,NEM,SA1,-37.738979,140.38681,"battery, battery_charging, battery_discharging",75.0
+LKBONNY1,Lake Bonney,NEM,SA1,-37.760504,140.405541,wind,80.5
+LKBONNY_2,Lake Bonney 2,NEM,SA1,-37.760504,140.405541,wind,159.0
+LKBONNY3,Lake Bonney 3,NEM,SA1,-37.760504,140.405541,wind,39.0
+LK_ECHO,Lake Echo,NEM,TAS1,-42.253643,146.620627,hydro,32.4
+LVES,Latrobe Valley,NEM,VIC1,-38.258183,146.418614,"battery, battery_charging, battery_discharging",420.0
+LNGS,Laverton North,NEM,VIC1,-37.841703,144.788796,gas_ocgt,312.0
+LEM_WIL,Lemonthyme / Wilmot,NEM,TAS1,-41.603738,146.13894,hydro,81.6
+LDBESS,Liddell,NEM,NSW1,-32.37564,150.978578,"battery, battery_charging, battery_discharging",2265.2400000000002
+LILYVASF,Lilyvale,NEM,QLD1,-23.084225,148.425994,solar_utility,118.0
+LIMBESS,Limondale,NEM,NSW1,-34.769354,143.559464,"battery, battery_charging, battery_discharging",423.0
+LIMOSF1,Limondale,NEM,NSW1,-34.771747,143.500494,solar_utility,275.0
+LIMOSF2,Limondale 2,NEM,NSW1,-34.775502,143.508046,solar_utility,38.0
+LGAPWF1,Lincoln Gap,NEM,SA1,-32.564612,137.557203,"battery, battery_charging, battery_discharging, wind",244.4
+LONGFORD,Longford,NEM,VIC1,-38.223244,147.1631,gas_ocgt,13.0
+LRSF,Longreach,NEM,QLD1,-23.446178,144.35918,solar_utility,17.0
+LONSDALE,Lonsdale,NEM,SA1,-35.109703,138.490992,distillate,20.0
+LOYYANGA,Loy Yang A,NEM,VIC1,-38.253534,146.574459,coal_brown,2210.0
+LOYYB,Loy Yang B,NEM,VIC1,-38.256446,146.584982,coal_brown,1000.0
+LUCASHGT,Lucas Heights,NEM,NSW1,-34.04829,150.973916,bioenergy_biogas,12.65
+LUCAS2S2,Lucas Heights 2,NEM,NSW1,-34.044088,150.972475,bioenergy_biogas,4.6
+MACARTH,Macarthur,NEM,VIC1,-38.043483,142.179081,wind,420.0
+MCINTYR,MacIntyre,NEM,QLD1,-28.2163,152.0327,wind,923.0
+MACKNTSH,Mackintosh,NEM,TAS1,-41.69974,145.646154,hydro,79.9
+MANSLR,Manildra,NEM,NSW1,-33.172681,148.718175,solar_utility,50.0
+MANNUMB,Mannum,NEM,SA1,-34.917537,139.262695,"battery, battery_charging, battery_discharging",395.09999999999997
+MANNSF,Mannum 2,NEM,SA1,-34.9144,139.2681,solar_utility,37.0
+MAPS2,Mannum Pumping Station,NEM,SA1,-34.854044,139.189749,solar_utility,33.0
+MAROOWF1,Maroona,NEM,VIC1,-37.41875,142.82434,wind,6.8
+MARYRSF,Maryrorough,NEM,QLD1,-27.708611,151.546202,solar_utility,33.0
+MEADOWBK,Meadowbank,NEM,TAS1,-42.611178,146.845687,hydro,40.0
+MREH,Melbourne A1,NEM,VIC1,-37.661157,144.726292,"battery, battery_charging, battery_discharging",647.4000000000001
+MREHA2,Melbourne A2,NEM,VIC1,-37.663934,144.726927,"battery, battery_charging, battery_discharging",647.4000000000001
+MREHA3,Melbourne A3,NEM,VIC1,-37.663819,144.726859,"battery, battery_charging, battery_discharging",646.2
+METZSF,Metz N,NEM,NSW1,-30.515484,151.859815,solar_utility,135.0
+MIDDLSF1,Middlemount,NEM,QLD1,-22.823243,148.718008,solar_utility,30.0
+MIDLDPS,Midlands,NEM,TAS1,-42.085747,147.274558,hydro,6.08
+MILLMERN,Millmerran,NEM,QLD1,-27.961319,151.277699,coal_black,852.0
+MINTARO,Mintaro,NEM,SA1,-33.903056,138.738162,gas_ocgt,115.0
+MOKOSF,Mokoan,NEM,VIC1,-36.489246,146.128325,solar_utility,58.0
+MOLNGSF1,Molong,NEM,NSW1,-33.08981,148.912255,solar_utility,36.0
+MOORAWF1,Moorabool,NEM,VIC1,-37.739433,144.171985,wind,312.0
+MORANBAH,Moranbah,NEM,QLD1,-21.962469,148.006004,gas_recip,12.56
+MBAHNTH,Moranbah North,NEM,QLD1,-21.978481,148.004809,gas_wcmg,63.42
+MOREESF,Moree,NEM,NSW1,-29.569066,149.866721,solar_utility,57.0
+MWPS,Morganwhyalla Pipeline,NEM,SA1,-33.97382,139.193756,solar_utility,22.0
+MORNBESS,Mornington,NEM,VIC1,-38.268707,145.204823,"battery, battery_charging, battery_discharging",1008.0
+MLB,Mortlake,NEM,VIC1,-38.06698,142.669466,"battery, battery_charging, battery_discharging",1320.0
+MORTLK,Mortlake,NEM,VIC1,-38.063237,142.668677,gas_ocgt,566.0
+MRTLSWF,Mortlake South,NEM,VIC1,-38.146832,142.853134,wind,157.5
+MLWF,Mortons Lane,NEM,VIC1,-37.833186,142.465288,wind,19.5
+MOUSF,Moura,NEM,QLD1,-24.515007,150.087256,solar_utility,99.0
+MEWF,Mt Emerald,NEM,QLD1,-17.133248,145.380037,wind,180.0
+MTGELWF,Mt Gellibrand,NEM,VIC1,-38.258519,143.802037,wind,138.0
+MTMERCER,Mt Mercer,NEM,VIC1,-37.831791,143.888681,wind,131.2
+MTMILLAR,Mt Millar,NEM,SA1,-33.62534,136.703771,wind,70.0
+MP,Mt Piper,NEM,NSW1,-33.358121,150.032642,coal_black,1400.0
+MSTUART,Mt Stuart,NEM,QLD1,-19.337807,146.850916,distillate,419.0
+MLSP,Mugga Lane,NEM,NSW1,-35.399485,149.1454,solar_utility,12.0
+MUCRKSF,Munna Creek,NEM,QLD1,-25.882106,152.459626,solar_utility,154.0
+MUWAWF,Murra Warra,NEM,VIC1,-36.438821,142.246003,wind,440.8
+MURRAY,Murray,NEM,VIC1,-36.24683,148.1902,hydro,1500.0
+MBPS2,Murray Bridge-Onkaparinga,NEM,SA1,-35.096848,139.209527,solar_utility,13.75
+MUSSELRO,Musselroe,NEM,TAS1,-40.780012,148.010283,wind,168.0
+NASF,Narromine,NEM,NSW1,-32.220895,148.255308,solar_utility,10.0
+NEVERSF,Nevertire,NEM,NSW1,-31.822603,147.703086,solar_utility,132.0
+NEWENSF,New England,NEM,NSW1,-30.627323,151.556425,solar_utility,470.0
+NESBESS1,New England 1,NEM,NSW1,-30.626481,151.616,"battery, battery_charging, battery_discharging",378.0
+NESBESS2,New England 2,NEM,NSW1,-30.626481,151.616,"battery, battery_charging, battery_discharging",378.0
+NEWPORT,Newport,NEM,VIC1,-37.841423,144.894923,gas_steam,500.0
+NBHWF,North Brown Hill,NEM,SA1,-33.228116,138.716888,wind,132.3
+NUMURKSF,Numurkah,NEM,VIC1,-36.161038,145.476491,solar_utility,112.0
+NYNGAN,Nyngan,NEM,NSW1,-31.555475,147.08622,solar_utility,102.14
+OAKEY,Oakey,NEM,QLD1,-27.418268,151.680205,gas_ocgt,282.0
+OAKEY2SF,Oakey 2,NEM,QLD1,-27.402454,151.642576,solar_utility,65.0
+OAKEY1SF,Oakey Solar Farm,NEM,QLD1,-27.410516,151.652849,solar_utility,30.0
+OAKLAND,Oaklands Hill,NEM,VIC1,-37.681514,142.552322,wind,67.0
+OCPS,Oaky Creek,NEM,QLD1,-23.048717,148.484462,gas_recip,20.0
+OAKY2,Oaky Creek 2,NEM,QLD1,-23.048717,148.484462,gas_wcmg,15.0
+ORABESS,Orana,NEM,NSW1,-32.530421,148.962923,"battery, battery_charging, battery_discharging",1317.0
+OSBORNE,Osborne,NEM,SA1,-34.797702,138.50779,gas_ccgt,180.0
+PALOONA,Paloona,NEM,TAS1,-41.282674,146.249036,hydro,28.0
+PSF,Parkes,NEM,NSW1,-33.117567,148.078825,solar_utility,55.0
+NPPPPS,Pelican Point,NEM,SA1,-34.765325,138.505402,gas_ccgt,478.0
+PIBESS,Phillip Island,NEM,VIC1,-38.483293,145.22488,"battery, battery_charging, battery_discharging",21.0
+PINDARI,Pindari,NEM,NSW1,-29.388034,151.244774,hydro,6.7
+PIONEER,Pioneer Sugar Mill,NEM,QLD1,-19.557546,147.330825,bioenergy_biomass,67.78
+PTINA,Poatina,NEM,TAS1,-41.811531,146.919117,hydro,325.0
+PAREPW,Port Augusta Energy Park,NEM,SA1,-32.595609,137.885629,"solar_utility, wind",309.0
+PORTLCN,Port Lincoln,NEM,SA1,-34.700389,135.804384,distillate,73.5
+STANVAC,Port Stanvac,NEM,SA1,-35.110332,138.49135,distillate,57.6
+PORTWF,Portland,NEM,VIC1,-38.361417,141.38456,wind,148.0
+QUARANTN,Quarantine,NEM,SA1,-34.779339,138.522883,gas_ocgt,229.0
+QBYNB,Queanbeyan,NEM,NSW1,-35.339311,149.215101,"battery, battery_charging, battery_discharging",30.0
+QP,Quorn Park,NEM,NSW1,-33.079517,148.089521,"battery, battery_charging, battery_discharging, solar_utility",177.0
+RACOMIL,Racecourse Mill,NEM,QLD1,-21.163842,149.135738,bioenergy_biomass,48.5
+RANGEB,Rangebank,NEM,VIC1,-38.085056,145.259936,"battery, battery_charging, battery_discharging",780.8
+REECE,Reece,NEM,TAS1,-41.723739,145.136012,hydro,231.2
+REPULSE,Repulse,NEM,TAS1,-42.507691,146.647,hydro,28.0
+RESS,Riverina 1,NEM,NSW1,-34.646349,146.035015,"battery, battery_charging, battery_discharging",240.0
+RIVNB,Riverina 2,NEM,NSW1,-34.646349,146.035015,"battery, battery_charging, battery_discharging",195.0
+RPCG,Rocky Point Cogen,NEM,QLD1,-27.733564,153.326464,bioenergy_biomass,30.0
+ROMA,Roma,NEM,QLD1,-26.577126,148.84009,gas_ocgt,80.0
+RRSF,Ross River,NEM,QLD1,-19.42622,146.715299,solar_utility,128.0
+ROWALLAN,Rowallan,NEM,TAS1,-41.729547,146.217649,hydro,10.5
+ROYALLA,Royalla,NEM,NSW1,-35.489826,149.142704,solar_utility,20.0
+RUBICON,Rubicon,NEM,VIC1,-37.292453,145.818202,hydro,13.0
+RUGBYR,Rugby Run,NEM,QLD1,-22.142401,147.928736,solar_utility,83.0
+RYANCWF,Ryan Corner,NEM,VIC1,-38.271156,142.14003,wind,218.4
+RYEPARK,Rye Park,NEM,NSW1,-34.63317,148.95364,wind,396.0
+SALTCRK,Salt Creek,NEM,VIC1,-37.930719,142.773524,wind,54.0
+SAPHWF1,Sapphire,NEM,NSW1,-29.710273,151.44558,wind,270.0
+SEBSF,Sebastopol,NEM,NSW1,-34.609386,147.557888,solar_utility,110.0
+SHEP1,Shepparton,NEM,VIC1,-36.322223,145.379291,bioenergy_biogas,1.1
+SHOALHAV,Shoalhaven,NEM,NSW1,-34.733085,150.4667,"hydro, pumps",480.0
+SHOAL,Shoalhaven Starches,NEM,NSW1,-34.8547,150.6138,gas_ocgt,54.0
+STWF,Silverton,NEM,NSW1,-31.86095,141.296349,wind,198.94
+SITHE,Smithfield,NEM,NSW1,-33.849945,150.94941,gas_ocgt,125.0
+SMTHBES1,Smithfield,NEM,NSW1,-33.849972,150.947448,"battery, battery_charging, battery_discharging",208.20000000000002
+SNAPPER,Snapper Point,NEM,SA1,-34.764433,138.508149,gas_ocgt,154.0
+SNOWTOWN,Snowtown,NEM,SA1,-33.691598,138.166022,wind,99.0
+SNOWNTH,Snowtown North,NEM,SA1,-33.756479,138.143043,wind,144.0
+SNOWSTH,Snowtown South,NEM,SA1,-33.862624,138.130367,wind,126.0
+SNUG,Snuggery,NEM,SA1,-37.664996,140.414686,distillate,84.0
+AGLSOM,Somerton,NEM,VIC1,-37.631692,144.952802,gas_ocgt,170.0
+SKSF,South Keswick,NEM,NSW1,-32.272801,148.659285,solar_utility,15.0
+STANWELL,Stanwell,NEM,QLD1,-23.507452,150.313355,coal_black,1460.0
+STAPYLTON,Stapylton,NEM,QLD1,-27.736111,153.245931,bioenergy_biogas,3.0
+STARFHILL,Starfish Hill,NEM,SA1,-35.578983,138.139653,wind,34.5
+STOCKYD,Stockyard Hill,NEM,VIC1,-37.53568,143.252548,wind,531.0
+STUBSF,Stubbo,NEM,NSW1,-32.26254,149.589068,solar_utility,503.0
+SMCSF,Sun Metals,NEM,QLD1,-19.332335,146.875929,solar_utility,143.0
+SUNRSF1,Sunraysia,NEM,NSW1,-34.804891,143.491185,solar_utility,228.0
+VALDORA,Sunshine Coast,NEM,QLD1,-26.560094,153.02574,solar_utility,15.0
+SUNTPSF,Suntop,NEM,NSW1,-32.583514,148.826931,solar_utility,175.0
+SNB1,Supernode,NEM,QLD1,-27.458521,153.111745,"battery, battery_charging, battery_discharging",967.5999999999999
+SRSF,Susan River,NEM,QLD1,-25.419331,152.741687,solar_utility,85.0
+SWANBBF,Swanbank,NEM,QLD1,-27.65619,152.817139,"battery, battery_charging, battery_discharging",993.5999999999999
+SWAN_E,Swanbank E,NEM,QLD1,-27.655138,152.817933,gas_ccgt,385.0
+TABMILL2,Tableland Mill,NEM,QLD1,-17.119813,145.34513,bioenergy_biomass,24.0
+TAHMOOR,Tahmoor,NEM,NSW1,-34.249117,150.577718,gas_wcmg,7.04
+TBSF,Tailem Bend,NEM,SA1,-35.271346,139.488379,solar_utility,108.0
+TB2SF,Tailem Bend 2,NEM,SA1,-35.28,139.49,"battery, battery_charging, battery_discharging, solar_utility",255.0
+TALLAWAR,Tallawarra,NEM,NSW1,-34.522808,150.807237,gas_ccgt,440.0
+TALWB,Tallawarra B,NEM,NSW1,-34.522808,150.807237,gas_ocgt,320.0
+TVCCPS,Tamar Valley,NEM,TAS1,-41.140348,146.904872,gas_ccgt,208.6
+TARALGA,Taralga,NEM,NSW1,-34.431428,149.865258,wind,106.8
+TARBESS,Tarong,NEM,QLD1,-26.780561,151.910086,"battery, battery_charging, battery_discharging",1179.0
+TARONG,Tarong,NEM,QLD1,-26.784086,151.914537,coal_black,1400.0
+TARONGN,Tarong North,NEM,QLD1,-26.774391,151.914007,coal_black,443.0
+TARRALEA,Tarraleah,NEM,TAS1,-42.301224,146.457294,hydro,90.0
+TATIARA,Tataria,NEM,SA1,-36.326977,140.737035,distillate,0.5
+TATURA,Tatura,NEM,VIC1,-36.47915,145.235037,bioenergy_biogas,1.1
+TEMPB,Templers,NEM,SA1,-34.46293,138.764848,"battery, battery_charging, battery_discharging",414.0
+TERANGBESS,Terang,NEM,VIC1,-38.231839,142.933262,"battery, battery_charging, battery_discharging",300.0
+BLUFF,The Bluff,NEM,SA1,-33.367741,138.79379,wind,52.5
+THEDROP,The Drop,NEM,NSW1,-35.973527,145.999274,hydro,2.5
+TIMWEST,Timboon West,NEM,VIC1,-38.528351,142.916231,wind,7.2
+TOORAWF,Toora,NEM,VIC1,-38.653258,146.340154,wind,21.0
+TIB,Torrens Island,NEM,SA1,-34.802305,138.520262,"battery, battery_charging, battery_discharging",750.0
+TORRIS,Torrens Island,NEM,SA1,-34.80651,138.523127,gas_steam,800.0
+TOWER,Tower,NEM,NSW1,-34.219461,150.718012,gas_wcmg,41.2
+YABULU,Townsville,NEM,QLD1,-19.20127,146.618573,gas_ccgt,242.0
+TGNSS,Traralgon Network Support,NEM,VIC1,-37.833513,144.965955,gas_recip,10.0
+TREVALLN,Trevallyn,NEM,TAS1,-41.42262,147.111785,hydro,93.0
+TRIBUTE,Tribute,NEM,TAS1,-41.815832,145.650178,hydro,107.8
+TULLYSM,Tully Sugar Mill,NEM,QLD1,-17.937329,145.92739,bioenergy_biomass,32.0
+SNOWY2,Tumut,NEM,NSW1,-35.952003,148.367255,hydro,616.0
+TUMUT3,Tumut 3,NEM,NSW1,-35.611138,148.29175,"hydro, pumps",2100.0
+TUNGATIN,Tungatinah,NEM,TAS1,-42.296802,146.456568,hydro,125.0
+ULBESS,Ulinda Park,NEM,QLD1,-26.92635,150.717472,"battery, battery_charging, battery_discharging",591.0
+URANQ,Uranquinty,NEM,NSW1,-35.180061,147.21567,gas_ocgt,664.0
+VP,Vales Point B,NEM,NSW1,-33.16078,151.543985,coal_black,1320.0
+VPGS,Valley Power Peaking,NEM,VIC1,-38.253709,146.588886,gas_ocgt,300.0
+TITREE,Veolia Ti Tree,NEM,QLD1,-27.695551,152.650313,bioenergy_biogas,2.0
+VICMILL,Victoria Mill,NEM,QLD1,-18.650208,146.200866,bioenergy_biomass,24.0
+VBB,Victorian Big Battery,NEM,VIC1,-38.038278,144.290383,"battery, battery_charging, battery_discharging",1080.0
+WAGGNSF,Wagga North,NEM,NSW1,-35.070575,147.438807,solar_utility,55.0
+WLWLSF,Walla Walla,NEM,NSW1,-35.747397,146.96666,solar_utility,403.2
+WALGRV,Wallgrove,NEM,NSW1,-33.813917,150.830827,"battery, battery_charging, battery_discharging",150.0
+PRDSO_WALPOLE,Walpole,NEM,WEM,-34.988023,116.722925,hydro,1.5
+WAMBOWF,Wambo,NEM,QLD1,-26.603045,151.246876,wind,252.0
+WANDSF,Wandoan,NEM,QLD1,-26.248848,149.765988,solar_utility,159.0
+WANDBG,Wandoan South,NEM,QLD1,-26.261526,149.765738,"battery, battery_charging, battery_discharging",369.0
+WNSF,Wangaratta,NEM,VIC1,-36.326757,146.359901,solar_utility,26.4
+WTAHB,Waratah Super Battery,NEM,NSW1,-33.209781,151.544911,"battery, battery_charging, battery_discharging",3287.5199999999995
+WARWSF,Warwick,NEM,QLD1,-28.183037,152.071764,solar_utility,78.0
+WATERLWF,Waterloo,NEM,SA1,-34.001298,138.91088,wind,130.8
+WPWF,Wattle Point,NEM,SA1,-35.110379,137.705789,wind,91.0
+WAUBRAWF,Waubra,NEM,VIC1,-37.357446,143.603659,wind,192.0
+WELLSF1,Wellington,NEM,NSW1,-32.5207,148.9675,solar_utility,216.0
+WELNSF,Wellington North,NEM,NSW1,-32.514353,148.957634,solar_utility,436.0
+WEMENSF1,Wemen,NEM,VIC1,-34.799853,142.547621,solar_utility,97.0
+WESTILLA,West Illawarra Leagues Club,NEM,NSW1,-34.451645,150.843037,distillate,1.0
+WKIEWA,West Kiewa,NEM,VIC1,-36.759974,147.185812,hydro,62.0
+WSTWYSF,West Wyalong,NEM,NSW1,-33.809655,147.325015,solar_utility,105.0
+WDBESS,Western Downs,NEM,QLD1,-26.952278,150.690528,"battery, battery_charging, battery_discharging",817.44
+WDGPH,Western Downs,NEM,QLD1,-26.955534,150.67862,solar_utility,501.0
+WDBESS2,Western Downs 2,NEM,QLD1,-26.951989,150.694141,"battery, battery_charging, battery_discharging",809.4000000000001
+WRSF1,White Rock Solar Farm,NEM,NSW1,-29.764429,151.553007,solar_utility,22.0
+WRWF1,White Rock Wind Farm,NEM,NSW1,-29.7718,151.5755,wind,175.0
+WHITSF,Whitsunday,NEM,QLD1,-20.492712,147.756358,solar_utility,57.5
+WHIT1,Whitwood Road,NEM,QLD1,-27.620454,152.824409,bioenergy_biogas,1.0
+WILGAPK,Wilga Park,NEM,NSW1,-30.363284,149.677422,gas_recip,10.0
+WILGAPKB,Wilga Park B,NEM,NSW1,-30.363284,149.677422,gas_recip,12.0
+WILLHOV,William Hovel,NEM,VIC1,-36.925216,146.389418,hydro,1.5
+WGWF,Willogoleche,NEM,SA1,-33.413128,138.845663,wind,119.0
+WINDHILL,Windy Hill,NEM,QLD1,-17.590399,145.52968,wind,12.0
+WINGF1,Wingfield,NEM,SA1,-34.835138,138.548949,bioenergy_biogas,4.12
+WINGF2,Wingfield 2,NEM,SA1,-34.835138,138.548949,bioenergy_biogas,4.12
+WINTSF1,Winton,NEM,VIC1,-36.503538,146.124102,solar_utility,107.0
+WIVENHOE,Wivenhoe,NEM,QLD1,-27.372417,152.63203,"hydro, pumps",1050.0
+WOLARSF,Wollar,NEM,NSW1,-32.407631,149.940737,solar_utility,324.0
+WOLLERT,Wollert,NEM,VIC1,-37.591792,145.043033,bioenergy_biogas,7.0
+WONWP,Wonthaggi,NEM,VIC1,-38.60513,145.546292,wind,12.0
+WDLNGN,Woodlawn,NEM,NSW1,-35.05928,149.5749,bioenergy_biogas,7.0
+WOODLWN,Woodlawn,NEM,NSW1,-35.081675,149.570511,wind,48.3
+WOOLNTH1,Woolnorth,NEM,TAS1,-40.786606,144.738536,wind,140.0
+WOOLGSF,Woolooga,NEM,QLD1,-26.075843,152.437448,solar_utility,222.5
+WUNUSF,Wunghnu,NEM,VIC1,-36.164387,145.403731,solar_utility,93.5
+WYASF,Wyalong,NEM,NSW1,-33.887269,147.315314,solar_utility,62.32
+WYANGALA,Wyangala A,NEM,NSW1,-33.968824,148.948823,hydro,20.0
+WYANGALB,Wyangala B,NEM,NSW1,-33.968824,148.948823,hydro,4.0
+YALLOURN,Yallourn W,NEM,VIC1,-38.177589,146.342556,coal_brown,1480.0
+YSWF,Yaloak South,NEM,VIC1,-37.716474,144.241947,wind,28.7
+YAMBUK,Yambuk,NEM,VIC1,-38.305278,142.018439,wind,30.0
+YARANSF,Yarranlea,NEM,QLD1,-27.709261,151.533038,solar_utility,121.0
+YWNGAHYD,Yarrawonga,NEM,VIC1,-36.009466,145.999568,hydro,9.0
+YARWUN,Yarwun,NEM,QLD1,-23.8309,151.151136,gas_ccgt,154.0
+YATSF1,Yatpool,NEM,VIC1,-34.396363,142.173809,solar_utility,94.0
+YAWWF,Yawong,NEM,VIC1,-36.471022,143.361722,wind,7.2
+YENDONWF,Yendon,NEM,VIC1,-37.630407,144.023136,wind,144.4

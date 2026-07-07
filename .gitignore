@@ -1,0 +1,15 @@
+.env
+.streamlit/secrets.toml
+
+__pycache__/
+*.py[cod]
+
+.ipynb_checkpoints/
+.DS_Store
+
+output/*.log
+data/processed/mqtt_published_state.json
+data/processed/facility_power_emissions_5min_may2026.csv
+data/processed/unit_power_emissions_5min_may2026.csv
+data/raw/
+data/database/*.duckdb

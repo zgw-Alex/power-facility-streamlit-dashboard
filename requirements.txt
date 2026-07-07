@@ -1,0 +1,10 @@
+pandas
+paho-mqtt
+folium
+streamlit
+ipython
+ipywidgets
+duckdb
+matplotlib
+jupyter
+notebook

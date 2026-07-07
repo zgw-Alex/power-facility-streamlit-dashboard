@@ -1,0 +1,684 @@
+unit_code,unit_code_display,facility_code,facility_name,network_region,fueltech_id,dispatch_type,unit_status,capacity_registered
+ADPBA1G,0ADPBA1G,ADP,Adelaide Desalination,SA1,battery_discharging,GENERATOR,operating,7.76
+ADPPV1,ADPPV1,ADP,Adelaide Desalination,SA1,solar_utility,GENERATOR,operating,24.75
+ADPBA1,ADPBA1,ADP,Adelaide Desalination,SA1,battery,BIDIRECTIONAL,operating,7.76
+ADPBA1L,0ADPBA1L,ADP,Adelaide Desalination,SA1,battery_charging,LOAD,operating,7.76
+ADPPV2,ADPPV2,ADP,Adelaide Desalination,SA1,solar_utility,GENERATOR,operating,0.2
+ADPMH1,ADPMH1,ADP,Adelaide Desalination,SA1,hydro,GENERATOR,operating,1.44
+ADPPV3,ADPPV3,ADP,Adelaide Desalination,SA1,solar_utility,GENERATOR,operating,0.02
+ALDGASF1,ALDGASF1,ALDGASF,Aldoga,QLD1,solar_utility,GENERATOR,operating,535.21
+ANGAST1,ANGAST1,ANGASTON,Angaston,SA1,distillate,GENERATOR,operating,50.0
+APPIN,APPIN,APPIN,Appin,NSW1,gas_wcmg,GENERATOR,operating,55.6
+ARWF1,ARWF1,ARWF,Ararat,VIC1,wind,GENERATOR,operating,241.59
+AVLSF1,AVLSF1,AVLSF,Avonlie,NSW1,solar_utility,GENERATOR,operating,254.1
+BDL01,BDL01,DEIBDL,Bairnsdale,VIC1,gas_ocgt,GENERATOR,operating,46.0
+BDL02,BDL02,DEIBDL,Bairnsdale,VIC1,gas_ocgt,GENERATOR,operating,46.0
+BAKING1,BAKING1,BAKING,Baking Board,QLD1,solar_utility,GENERATOR,operating,17.5
+BALDHWF1,BALDHWF1,BHWF,Bald Hills,VIC1,wind,GENERATOR,operating,106.6
+BALBG1,0BALBG1,BALBESS,Ballarat,VIC1,battery_discharging,GENERATOR,operating,30.0
+BALB1,BALB1,BALBESS,Ballarat,VIC1,battery,BIDIRECTIONAL,operating,30.0
+BALBL1,0BALBL1,BALBESS,Ballarat,VIC1,battery_charging,LOAD,operating,30.0
+BANGOWF2,BANGOWF2,BANGOWF,Bango,NSW1,wind,GENERATOR,operating,84.8
+BANGOWF1,BANGOWF1,BANGOWF,Bango,NSW1,wind,GENERATOR,operating,159.0
+BAPS,BAPS,BAPS,Banimboola,VIC1,hydro,GENERATOR,operating,12.85
+BANN1,BANN1,BANNSP,Bannerton,VIC1,solar_utility,GENERATOR,operating,100.0
+BARCALDN,BARCALDN,BARCALDN,Barcaldine,QLD1,gas_ccgt,GENERATOR,operating,37.0
+BARCSF1,BARCSF1,BARCSF,Barcaldine,QLD1,solar_utility,GENERATOR,operating,20.0
+BARKIPS1,BARKIPS1,BARKIPS,Barker Inlet,SA1,gas_recip,GENERATOR,operating,211.0
+BARRON-2,BARRON-2,BARRON,Barron Gorge,QLD1,hydro,GENERATOR,operating,30.0
+BARRON-1,BARRON-1,BARRON,Barron Gorge,QLD1,hydro,GENERATOR,operating,30.0
+BASTYAN,BASTYAN,BASTYAN,Bastyan,TAS1,hydro,GENERATOR,operating,79.9
+BW01,BW01,BAYSW,Bayswater,NSW1,coal_black,GENERATOR,operating,660.0
+BW03,BW03,BAYSW,Bayswater,NSW1,coal_black,GENERATOR,operating,660.0
+BW04,BW04,BAYSW,Bayswater,NSW1,coal_black,GENERATOR,operating,660.0
+BW02,BW02,BAYSW,Bayswater,NSW1,coal_black,GENERATOR,operating,660.0
+TVPP104,TVPP104,BBP31,Bell Bay Three,TAS1,gas_ocgt,GENERATOR,operating,58.0
+BBTHREE3,BBTHREE3,BBP31,Bell Bay Three,TAS1,gas_ocgt,GENERATOR,operating,35.0
+BBTHREE1,BBTHREE1,BBP31,Bell Bay Three,TAS1,gas_ocgt,GENERATOR,operating,35.0
+BBTHREE2,BBTHREE2,BBP31,Bell Bay Three,TAS1,gas_ocgt,GENERATOR,operating,35.0
+BRYB2WF2,BRYB2WF2,BRYB1WF1,Berrybank,VIC1,wind,GENERATOR,operating,109.0
+BRYB1WF1,BRYB1WF1,BRYB1WF1,Berrybank,VIC1,wind,GENERATOR,operating,180.6
+BERYLSF1,BERYLSF1,BERYLSF,Beryl,NSW1,solar_utility,GENERATOR,operating,98.0
+GULLRWF2,GULLRWF2,BIALAWF,Biala,NSW1,wind,GENERATOR,operating,110.0
+BLAYNEY,BLAYNEY,BLAYNEY,Blayney,NSW1,wind,GENERATOR,operating,9.9
+BLOWERNG,BLOWERNG,SNOWY6,Blowering,NSW1,hydro,GENERATOR,operating,80.0
+BLUEGSF1,BLUEGSF1,BLUEGSF,Blue Grass,QLD1,solar_utility,GENERATOR,operating,183.0
+BLYTHB1G1,0BLYTHB1G1,BLYTHB,Blyth,SA1,battery_discharging,GENERATOR,operating,281.0
+BLYTHB1L1,0BLYTHB1L1,BLYTHB,Blyth,SA1,battery_charging,LOAD,operating,281.0
+BLYTHB1,BLYTHB1,BLYTHB,Blyth,SA1,battery,BIDIRECTIONAL,operating,281.0
+BOCORWF1,BOCORWF1,BOCOROCK,Boco Rock,NSW1,wind,GENERATOR,operating,113.18
+BODWF1,BODWF1,BODWF,Bodangora,NSW1,wind,GENERATOR,operating,113.19
+MCKAY1,MCKAY1,MCKAY,Bogong / Mackay,VIC1,hydro,GENERATOR,operating,300.0
+BOWWPV1,BOWWPV1,BOLIVAR,Bolivar,SA1,solar_utility,GENERATOR,operating,8.25
+BOWWBA1G,0BOWWBA1G,BOLIVAR,Bolivar,SA1,battery_discharging,GENERATOR,operating,3.08
+BOWWBA1L,0BOWWBA1L,BOLIVAR,Bolivar,SA1,battery_charging,LOAD,operating,3.08
+BOWWBA1,BOWWBA1,BOLIVAR,Bolivar,SA1,battery,BIDIRECTIONAL,operating,3.0
+BOLIVAR1,BOLIVAR1,BOLIVAR,Bolivar,SA1,bioenergy_biogas,GENERATOR,operating,9.9
+BOLIVPS1,BOLIVPS1,BOLIVPS,Bolivar,SA1,gas_ocgt,GENERATOR,operating,128.0
+BOMENSF1,BOMENSF1,BOMENSF,Bomen,NSW1,solar_utility,GENERATOR,operating,121.0
+BBATTERY1,BBATTERY1,BBATTERY,Bouldercombe,QLD1,battery,BIDIRECTIONAL,operating,67.0
+BBATTERYL1,0BBATTERYL1,BBATTERY,Bouldercombe,QLD1,battery_charging,LOAD,operating,67.0
+BBATTERYG1,0BBATTERYG1,BBATTERY,Bouldercombe,QLD1,battery_discharging,GENERATOR,operating,67.0
+BRAEMAR3,BRAEMAR3,BRAEMARA,Braemar,QLD1,gas_ocgt,GENERATOR,operating,168.0
+BRAEMAR1,BRAEMAR1,BRAEMARA,Braemar,QLD1,gas_ocgt,GENERATOR,operating,168.0
+BRAEMAR2,BRAEMAR2,BRAEMARA,Braemar,QLD1,gas_ocgt,GENERATOR,operating,168.0
+BRAEMAR5,BRAEMAR5,B2PS,Braemar 2,QLD1,gas_ocgt,GENERATOR,operating,173.0
+BRAEMAR6,BRAEMAR6,B2PS,Braemar 2,QLD1,gas_ocgt,GENERATOR,operating,173.0
+BRAEMAR7,BRAEMAR7,B2PS,Braemar 2,QLD1,gas_ocgt,GENERATOR,operating,173.0
+BRNDBES1,BRNDBES1,BRNDBES,Brendale,QLD1,battery,BIDIRECTIONAL,operating,215.0
+BRNDBESL1,0BRNDBESL1,BRNDBES,Brendale,QLD1,battery_charging,LOAD,operating,215.0
+BRNDBESG1,0BRNDBESG1,BRNDBES,Brendale,QLD1,battery_discharging,GENERATOR,operating,215.0
+BRDDBESG1,0BRDDBESG1,BRDD,Broadsound,QLD1,battery_discharging,GENERATOR,operating,240.0
+BRDDBES1,BRDDBES1,BRDD,Broadsound,QLD1,battery,BIDIRECTIONAL,operating,240.0
+BRDDSF01,BRDDSF01,BRDD,Broadsound,QLD1,solar_utility,GENERATOR,operating,368.0
+BRDDBESL1,0BRDDBESL1,BRDD,Broadsound,QLD1,battery_charging,LOAD,operating,240.0
+BWTR1,BWTR1,BWTR1,Broadwater,NSW1,bioenergy_biomass,GENERATOR,operating,38.0
+GB01,GB01,BHILLGT,Broken Hill,NSW1,distillate,GENERATOR,operating,50.0
+BROKENH1,BROKENH1,BROKENH,Broken Hill,NSW1,solar_utility,GENERATOR,operating,53.0
+BHBL1,0BHBL1,BHB,Broken Hill Battery,NSW1,battery_charging,LOAD,operating,66.0
+BHB1,BHB1,BHB,Broken Hill Battery,NSW1,battery,BIDIRECTIONAL,operating,66.0
+BHBG1,0BHBG1,BHB,Broken Hill Battery,NSW1,battery_discharging,GENERATOR,operating,66.0
+BROOKLYN,BROOKLYN,BROOKLYN,Brooklyn,VIC1,bioenergy_biogas,GENERATOR,operating,2.83
+BROWNMT,BROWNMT,BROWNMT,Brown Mountain,NSW1,hydro,GENERATOR,operating,5.0
+BPLANDF1,BPLANDF1,BPLANDF,Browns Plains,QLD1,bioenergy_biogas,GENERATOR,operating,2.0
+BULGANA1,BULGANA1,BULGANA,Bulgana Green Power Hub,VIC1,wind,GENERATOR,operating,204.0
+BULBES1,BULBES1,BULGANA,Bulgana Green Power Hub,VIC1,battery,BIDIRECTIONAL,operating,24.0
+BULBESL1,0BULBESL1,BULGANA,Bulgana Green Power Hub,VIC1,battery_charging,LOAD,operating,24.0
+BULBESG1,0BULBESG1,BULGANA,Bulgana Green Power Hub,VIC1,battery_discharging,GENERATOR,operating,24.0
+BUSF1,BUSF1,BUSF,Bundaberg,QLD1,solar_utility,GENERATOR,operating,101.0
+BNGSF1,BNGSF1,BNGSF1,Bungala One,SA1,solar_utility,GENERATOR,operating,135.0
+BNGSF2,BNGSF2,BNGSF2,Bungala Two,SA1,solar_utility,GENERATOR,operating,135.0
+BUNGAMBG1,0BUNGAMBG1,BUNGAMB,Bungama,SA1,battery_discharging,GENERATOR,operating,217.0
+BUNGAMBL1,0BUNGAMBL1,BUNGAMB,Bungama,SA1,battery_charging,LOAD,operating,217.0
+BUNGAMB1,BUNGAMB1,BUNGAMB,Bungama,SA1,battery,BIDIRECTIONAL,operating,217.0
+BDONGHYD,BDONGHYD,BDONGHYD,Burrendong,NSW1,hydro,GENERATOR,operating,19.0
+BURRIN,BURRIN,BURRIN,Burrinjuck,NSW1,hydro,GENERATOR,operating,34.0
+BUTLERSG,BUTLERSG,BUTLERSG,Butlers Gorge,TAS1,hydro,GENERATOR,operating,14.4
+CALL_B_1,CALL_B_1,CALL_B,Callide B,QLD1,coal_black,GENERATOR,operating,350.0
+CALL_B_2,CALL_B_2,CALL_B,Callide B,QLD1,coal_black,GENERATOR,operating,350.0
+CPP_3,CPP_3,CALLIDEC1,Callide C,QLD1,coal_black,GENERATOR,operating,466.0
+CPP_4,CPP_4,CALLIDEC1,Callide C,QLD1,coal_black,GENERATOR,operating,420.0
+CNUNDAWF,CNUNDAWF,CANUNDA1,Canunda,SA1,wind,GENERATOR,operating,46.0
+CAPBES1,CAPBES1,CAPBES,Capital,NSW1,battery,BIDIRECTIONAL,operating,125.0
+CAPBES1L,0CAPBES1L,CAPBES,Capital,NSW1,battery_charging,LOAD,operating,125.0
+CAPBES1G,0CAPBES1G,CAPBES,Capital,NSW1,battery_discharging,GENERATOR,operating,125.0
+CAPTL_WF,CAPTL_WF,CAPTL_WF,Capital,NSW1,wind,GENERATOR,operating,140.0
+CESF1,CESF1,CESF,Capital East,NSW1,solar_utility,GENERATOR,operating,0.2
+CRWARP1,CRWARP1,CRWARP,Carwarp,VIC1,solar_utility,GENERATOR,operating,186.0
+LI_WY_CA,LI_WY_CA,LI_WY_CA,Catagunya / Liapootah / Wayatinah,TAS1,hydro,GENERATOR,operating,173.7
+CATHROCK,CATHROCK,CATHROCK,Cathedral Rocks,SA1,wind,GENERATOR,operating,66.0
+CTHLWF1,CTHLWF1,CTHLWF,Cattle Hill,TAS1,wind,GENERATOR,operating,148.0
+CETHANA,CETHANA,CETHANA,Cethana,TAS1,hydro,GENERATOR,operating,85.0
+CHALLHWF,CHALLHWF,CHALLWF,Challicum Hills,VIC1,wind,GENERATOR,operating,52.5
+CHPSTWF1,CHPSTWF1,CHPSTWF,Chepstowe,VIC1,wind,GENERATOR,operating,6.15
+CHYTWF1,CHYTWF1,CHYTWF,Cherry Tree,VIC1,wind,GENERATOR,operating,57.6
+CHILDSF1,CHILDSF1,CHILDSF,Childers,QLD1,solar_utility,GENERATOR,operating,64.38
+CHBESSL1,0CHBESSL1,CHBESS,Chinchilla,QLD1,battery_charging,LOAD,operating,134.0
+CHBESSG1,0CHBESSG1,CHBESS,Chinchilla,QLD1,battery_discharging,GENERATOR,operating,134.0
+CHBESS1,CHBESS1,CHBESS,Chinchilla,QLD1,battery,BIDIRECTIONAL,operating,134.0
+CBWWBA1G,0CBWWBA1G,CBWWBA,Christies Beach,SA1,battery_discharging,GENERATOR,operating,2.16
+CBWWBA1,CBWWBA1,CBWWBA,Christies Beach,SA1,battery,BIDIRECTIONAL,operating,2.16
+CBWWBA1L,0CBWWBA1L,CBWWBA,Christies Beach,SA1,battery_charging,LOAD,operating,2.0
+CBWWPV1,CBWWPV1,CBWWBA,Christies Beach,SA1,solar_utility,GENERATOR,operating,2.75
+CBWWBG1,CBWWBG1,CBWWBA,Christies Beach,SA1,bioenergy_biogas,GENERATOR,operating,0.66
+CBWWDG1,CBWWDG1,CBWWBA,Christies Beach,SA1,distillate,GENERATOR,operating,2.0
+CBWWDG2,CBWWDG2,CBWWBA,Christies Beach,SA1,distillate,GENERATOR,operating,0.72
+CBWWPV2,CBWWPV2,CBWWBA,Christies Beach,SA1,solar_utility,GENERATOR,operating,1.08
+CLARESF1,CLARESF1,CLARESF,Clare,QLD1,solar_utility,GENERATOR,operating,110.26
+CLRKCWF1,CLRKCWF1,CLRKCWF,Clarke Creek,QLD1,wind,GENERATOR,operating,345.5
+CLRKCWF2,CLRKCWF2,CLRKCWF,Clarke Creek,QLD1,wind,GENERATOR,operating,103.5
+CLAYTON,CLAYTON,CLAYTON,Clayton,VIC1,bioenergy_biogas,GENERATOR,operating,11.0
+CGEBESSL01,0CGEBESSL01,CLEMGPWF,Clements Gap,SA1,battery_charging,LOAD,operating,90.5
+CGBESSG01,0CGBESSG01,CLEMGPWF,Clements Gap,SA1,battery_discharging,GENERATOR,operating,90.5
+CGBESS01,CGBESS01,CLEMGPWF,Clements Gap,SA1,battery,BIDIRECTIONAL,operating,90.5
+CLEMGPWF,CLEMGPWF,CLEMGPWF,Clements Gap,SA1,wind,GENERATOR,operating,57.0
+CLERMSF1,CLERMSF1,CLERMSF,Clermont,QLD1,solar_utility,GENERATOR,operating,92.0
+CLOVER,CLOVER,CLOVER,Clover,VIC1,hydro,GENERATOR,operating,37.5
+CLUNY,CLUNY,CLUNY,Cluny,TAS1,hydro,GENERATOR,operating,19.0
+CODRNGTON,CODRNGTON,CODRGTON,Codrington,VIC1,wind,GENERATOR,operating,18.2
+COHUNSF1,COHUNSF1,COHUNSF1,Cohuna,VIC1,solar_utility,GENERATOR,operating,31.1
+COLEASF1,COLEASF1,COLEASF,Coleambally,NSW1,solar_utility,GENERATOR,operating,180.0
+COLWF01,COLWF01,COLWF01,Collector,NSW1,wind,GENERATOR,operating,226.0
+CSPVPS1,CSPVPS1,CSPVPS,Collinsville,QLD1,solar_utility,GENERATOR,operating,42.0
+CG4,CG4,COLONGRA,Colongra,NSW1,gas_ocgt,GENERATOR,operating,181.0
+CG2,CG2,COLONGRA,Colongra,NSW1,gas_ocgt,GENERATOR,operating,181.0
+CG3,CG3,COLONGRA,Colongra,NSW1,gas_ocgt,GENERATOR,operating,181.0
+CG1,CG1,COLONGRA,Colongra,NSW1,gas_ocgt,GENERATOR,operating,181.0
+COLUMSF1,COLUMSF1,COLUMSF,Columboola,QLD1,solar_utility,GENERATOR,operating,217.0
+CPSA,CPSA,CPSA,Condamine A,QLD1,gas_ccgt,GENERATOR,operating,143.0
+CONDONG1,CONDONG1,CONDONG1,Condong,NSW1,bioenergy_biomass,GENERATOR,operating,30.0
+CBWF1,CBWF1,CBWF,Coonoer Bridge,VIC1,wind,GENERATOR,operating,19.8
+COOPGWF1,COOPGWF1,COOPGWF,Coopers Gap,QLD1,wind,GENERATOR,operating,452.0
+COPTNHYD,COPTNHYD,COPTNHYD,Copeton,NSW1,hydro,GENERATOR,operating,22.5
+CRWASF1,CRWASF1,CRWASF1,Corowa,NSW1,solar_utility,GENERATOR,operating,36.0
+CROOKWEL,CROOKWEL,CROOKWEL,Crookwell,NSW1,wind,GENERATOR,operating,4.8
+CROOKWF2,CROOKWF2,CROOKWF2,Crookwell 2,NSW1,wind,GENERATOR,operating,96.04
+CROOKWF3,CROOKWF3,CROOKWF3,Crookwell 3,NSW1,wind,GENERATOR,operating,57.0
+CROWLWF1,CROWLWF1,CROWLWF,Crowlands,VIC1,wind,GENERATOR,operating,79.95
+CRURWF1,CRURWF1,CRURWF1,Crudine Ridge,NSW1,wind,GENERATOR,operating,141.0
+CUSF1,CUSF1,CULCSF,Culcairn,NSW1,solar_utility,GENERATOR,operating,466.0
+CULLRGWF,CULLRGWF,CULLERIN,Cullerin Range,NSW1,wind,GENERATOR,operating,30.0
+DALNTHG1,0DALNTHG1,DALNTH,Dalrymple North,SA1,battery_discharging,GENERATOR,operating,30.0
+DALNTH1,DALNTH1,DALNTH,Dalrymple North,SA1,battery,BIDIRECTIONAL,operating,30.0
+DALNTHL1,0DALNTHL1,DALNTH,Dalrymple North,SA1,battery_charging,LOAD,operating,30.0
+DDPS1,DDPS1,DDPS1,Darling Downs,QLD1,gas_ccgt,GENERATOR,operating,644.0
+DDSF1,DDSF1,DDSF,Darling Downs,QLD1,solar_utility,GENERATOR,operating,121.0
+DARLSF1,DARLSF1,DARLSF,Darlington Point,NSW1,solar_utility,GENERATOR,operating,324.0
+DPNTBG1,0DPNTBG1,DPNTB,Darlington Point,NSW1,battery_discharging,GENERATOR,operating,25.0
+DPNTB1,DPNTB1,DPNTB,Darlington Point,NSW1,battery,BIDIRECTIONAL,operating,25.0
+DPNTBL1,0DPNTBL1,DPNTB,Darlington Point,NSW1,battery_charging,LOAD,operating,25.0
+DARTM1,DARTM1,DARTM,Dartmouth,VIC1,hydro,GENERATOR,operating,185.0
+DAYDSF1,DAYDSF1,DAYDSF,Daydream,QLD1,solar_utility,GENERATOR,operating,167.0
+DEVILS_G,DEVILS_G,DEVILS_G,Devils Gate,TAS1,hydro,GENERATOR,operating,60.0
+DIAPURWF1,DIAPURWF1,DIAPURWF,Diapur 2,VIC1,wind,GENERATOR,operating,8.0
+DRYCGT2,DRYCGT2,DRYCGT,Dry Creek,SA1,gas_ocgt,GENERATOR,operating,52.0
+DRYCGT1,DRYCGT1,DRYCGT,Dry Creek,SA1,gas_ocgt,GENERATOR,operating,52.0
+DRYCGT3,DRYCGT3,DRYCGT,Dry Creek,SA1,gas_ocgt,GENERATOR,operating,52.0
+DULAWF1,DULAWF1,DULAWF,Dulacca,QLD1,wind,GENERATOR,operating,180.0
+DUNDWF2,DUNDWF2,DUNDWF,Dundonnell,VIC1,wind,GENERATOR,operating,46.0
+DUNDWF3,DUNDWF3,DUNDWF,Dundonnell,VIC1,wind,GENERATOR,operating,121.0
+DUNDWF1,DUNDWF1,DUNDWF,Dundonnell,VIC1,wind,GENERATOR,operating,168.0
+EASTCRK,EASTCRK,EASTCRK,Eastern Creek,NSW1,bioenergy_biogas,GENERATOR,operating,5.06
+EASTCRK2,EASTCRK2,EASTCRK2,Eastern Creek 2,NSW1,bioenergy_biogas,GENERATOR,operating,6.74
+EDENVSF1,EDENVSF1,EDENVSF,Edenvale,QLD1,solar_utility,GENERATOR,operating,180.0
+EILDON1,EILDON1,EILDON,Eildon,VIC1,hydro,GENERATOR,operating,60.0
+EILDON2,EILDON2,EILDON,Eildon,VIC1,hydro,GENERATOR,operating,60.0
+EILDON3,EILDON3,EILDONPD,Eildon,VIC1,hydro,GENERATOR,operating,4.5
+ELAINWF1,ELAINWF1,ELAINEWF,Elaine,VIC1,wind,GENERATOR,operating,83.6
+EMERASF1,EMERASF1,EMERASF,Emerald,QLD1,solar_utility,GENERATOR,operating,88.0
+ER02,ER02,ERARING,Eraring,NSW1,coal_black,GENERATOR,operating,720.0
+ER03,ER03,ERARING,Eraring,NSW1,coal_black,GENERATOR,operating,720.0
+ER04,ER04,ERARING,Eraring,NSW1,coal_black,GENERATOR,operating,720.0
+ER01,ER01,ERARING,Eraring,NSW1,coal_black,GENERATOR,operating,720.0
+ERBG01,0ERBG01,ERB,Eraring,NSW1,battery_discharging,GENERATOR,operating,614.6
+ERBL01,0ERBL01,ERB,Eraring,NSW1,battery_charging,LOAD,operating,614.6
+ERB01,ERB01,ERB,Eraring,NSW1,battery,BIDIRECTIONAL,operating,614.6
+ERGT01,ERGT01,ERGT01,Eraring,NSW1,distillate,GENERATOR,operating,41.5
+FSWF1,FSWF1,FWF,Ferguson,VIC1,wind,GENERATOR,operating,8.0
+FNWF1,FNWF1,FWF,Ferguson,VIC1,wind,GENERATOR,operating,4.0
+FINLYSF1,FINLYSF1,FINLEYSF,Finley,NSW1,solar_utility,GENERATOR,operating,162.36
+FISHER,FISHER,FISHER,Fisher,TAS1,hydro,GENERATOR,operating,43.2
+FLYCRKWF,FLYCRKWF,FLYCRKWF,Flyers Creek,NSW1,wind,GENERATOR,operating,145.0
+GANGARR1,GANGARR1,GANGARR,Gangarri,QLD1,solar_utility,GENERATOR,operating,162.0
+GANNBL1,0GANNBL1,GANNBESS,Gannawarra,VIC1,battery_charging,LOAD,operating,30.0
+GANNBG1,0GANNBG1,GANNBESS,Gannawarra,VIC1,battery_discharging,GENERATOR,operating,30.0
+GANNB1,GANNB1,GANNBESS,Gannawarra,VIC1,battery,BIDIRECTIONAL,operating,30.0
+GANNSF1,GANNSF1,GANNSF,Gannawarra,VIC1,solar_utility,GENERATOR,operating,55.0
+GERMCRK,GERMCRK,GERMCRK,German Creek,QLD1,gas_wcmg,GENERATOR,operating,45.0
+GIRGSF,GIRGSF,GIRGSF,Girgarre,VIC1,solar_utility,GENERATOR,operating,93.31
+GSTONE6,GSTONE6,GSTONE,Gladstone,QLD1,coal_black,GENERATOR,operating,280.0
+GSTONE5,GSTONE5,GSTONE,Gladstone,QLD1,coal_black,GENERATOR,operating,280.0
+GSTONE1,GSTONE1,GSTONE,Gladstone,QLD1,coal_black,GENERATOR,operating,280.0
+GSTONE3,GSTONE3,GSTONE,Gladstone,QLD1,coal_black,GENERATOR,operating,280.0
+GSTONE4,GSTONE4,GSTONE,Gladstone,QLD1,coal_black,GENERATOR,operating,280.0
+GSTONE2,GSTONE2,GSTONE,Gladstone,QLD1,coal_black,GENERATOR,operating,280.0
+GLBWNHYD,GLBWNHYD,GLBWNHYD,Glenbawn,NSW1,hydro,GENERATOR,operating,5.5
+GESF1,GESF1,GESF,Glenellen,NSW1,solar_utility,GENERATOR,operating,264.0
+GLENMAG1,GLENMAG1,GLENMAGG,Glenmaggie,VIC1,hydro,GENERATOR,operating,3.8
+GLENNCRK,GLENNCRK,GLENNCRK,Glennies Creek,NSW1,gas_wcmg,GENERATOR,operating,12.78
+GLENSF1,GLENSF1,GLENSF,Glenrowan,VIC1,solar_utility,GENERATOR,operating,126.0
+GLRWNSF1,GLRWNSF1,GLRWNSF,Glenrowan West,VIC1,solar_utility,GENERATOR,operating,132.0
+GPWFEST1,GPWFEST1,GPWFEST,Golden Plains East,VIC1,wind,GENERATOR,operating,248.0
+GPWFEST3,GPWFEST3,GPWFEST,Golden Plains East,VIC1,wind,GENERATOR,operating,248.0
+GPWFEST2,GPWFEST2,GPWFEST,Golden Plains East,VIC1,wind,GENERATOR,operating,260.4
+GPWFWST1,GPWFWST1,GPWFWST,Golden Plains West,VIC1,wind,GENERATOR,operating,266.0
+GOONSF1,GOONSF1,GOONUMSF,Goonumbla,NSW1,solar_utility,GENERATOR,operating,85.0
+GOESF1,GOESF1,GOESF1,Goorambat East,VIC1,solar_utility,GENERATOR,operating,348.6
+GORDON,GORDON,GORDON,Gordon,TAS1,hydro,GENERATOR,operating,432.0
+GOVILLB1,GOVILLB1,GORDON,Gordon,TAS1,hydro,GENERATOR,operating,25.0
+GSWF1A,GSWF1A,GSWF,Goyder South,SA1,wind,GENERATOR,operating,209.0
+GSWF1B1,GSWF1B1,GSWF,Goyder South,SA1,wind,GENERATOR,operating,203.0
+GRANGEAV,GRANGEAV,GRANGEAV,Grange Avenue,NSW1,bioenergy_biogas,GENERATOR,operating,2.0
+GRANWF1,GRANWF1,GRANWF,Granville Harbour,TAS1,wind,GENERATOR,operating,110.0
+GREENB1,GREENB1,GREENB,Greenbank,QLD1,battery,BIDIRECTIONAL,operating,259.2
+GREENB1G1,0GREENB1G1,GREENB,Greenbank,QLD1,battery_discharging,GENERATOR,operating,259.2
+GREENB1L1,0GREENB1L1,GREENB,Greenbank,QLD1,battery_charging,LOAD,operating,259.2
+GRIFSF1,GRIFSF1,GRIFSF,Griffith,NSW1,solar_utility,GENERATOR,operating,27.2
+GROSV1,GROSV1,GROSV1,Grosvenor 1,QLD1,gas_wcmg,GENERATOR,operating,21.0
+GROSV2,GROSV2,GROSV2,Grosvenor 2,QLD1,gas_wcmg,GENERATOR,operating,15.21
+GULLRSF1,GULLRSF1,GULLRGWF,Gullen Range,NSW1,solar_utility,GENERATOR,operating,10.0
+GULLRWF1,GULLRWF1,GULLRGWF,Gullen Range,NSW1,wind,GENERATOR,operating,165.0
+GNNDHSF1,GNNDHSF1,GNNDHSF,Gunnedah,NSW1,solar_utility,GENERATOR,operating,144.0
+GUNNING1,GUNNING1,GUNNING,Gunning,NSW1,wind,GENERATOR,operating,46.5
+GUSF1,GUSF1,GUSF,Gunsynd,QLD1,solar_utility,GENERATOR,operating,122.78
+GUTHEGA,GUTHEGA,SNOWY3,Guthega,NSW1,hydro,GENERATOR,operating,60.0
+HLMSEW01,HLMSEW01,HLMSEW01,Hallam,VIC1,hydro,GENERATOR,operating,0.25
+HALAMRD1,HALAMRD1,HALAMRD,Hallam Road,VIC1,bioenergy_biogas,GENERATOR,operating,8.98
+AGLHAL,AGLHAL,AGLHAL,Hallett,SA1,gas_ocgt,GENERATOR,operating,217.0
+HALLWF1,HALLWF1,HALLWF,Hallett 1,SA1,wind,GENERATOR,operating,95.0
+HALLWF2,HALLWF2,HALLWF2,Hallett 2,SA1,wind,GENERATOR,operating,71.4
+HAMISF1,HAMISF1,HAMISF,Hamilton,QLD1,solar_utility,GENERATOR,operating,57.5
+HAMPTON,HAMPTON,HAMPTON,Hampton,NSW1,wind,GENERATOR,operating,1.32
+HVWWBA1,HVWWBA1,HVWW,Happy Valley,SA1,battery,BIDIRECTIONAL,operating,5.0
+HVWWBA1L,0HVWWBA1L,HVWW,Happy Valley,SA1,battery_charging,LOAD,operating,5.0
+HVWWBA1G,0HVWWBA1G,HVWW,Happy Valley,SA1,battery_discharging,GENERATOR,operating,5.0
+HVWWPV1,HVWWPV1,HVWW,Happy Valley,SA1,solar_utility,GENERATOR,operating,11.0
+HASTINGS2,HASTINGS2,HASTING,Hastings,VIC1,gas_ocgt,GENERATOR,operating,14.82
+HASTINGS3,HASTINGS3,HASTING,Hastings,VIC1,gas_ocgt,GENERATOR,operating,14.82
+HASTINGS1,HASTINGS1,HASTING,Hastings,VIC1,gas_ocgt,GENERATOR,operating,14.82
+HAUGHT11,HAUGHT11,HAUGHT1,Haughton,QLD1,solar_utility,GENERATOR,operating,132.0
+HD1WF1,HD1WF1,HD1WF,Hawkesdale,VIC1,wind,GENERATOR,operating,94.6
+HAYMSF1,HAYMSF1,HAYMSF,Hayman,QLD1,solar_utility,GENERATOR,operating,57.75
+HBESSG1,0HBESSG1,HBESS,Hazelwood BESS,VIC1,battery_discharging,GENERATOR,operating,200.0
+HBESS1,HBESS1,HBESS,Hazelwood BESS,VIC1,battery,BIDIRECTIONAL,operating,200.0
+HBESSL1,0HBESSL1,HBESS,Hazelwood BESS,VIC1,battery_charging,LOAD,operating,200.0
+HEPWIND1,HEPWIND1,HEPWIND,Hepburn,VIC1,wind,GENERATOR,operating,4.1
+HILLSTN1,HILLSTN1,HILLSTN,Hillston Sun,NSW1,solar_utility,GENERATOR,operating,110.0
+HDWF1,HDWF1,HORNSDAL,Hornsdale,SA1,wind,GENERATOR,operating,102.4
+HDWF2,HDWF2,HORNSDAL2,Hornsdale 2,SA1,wind,GENERATOR,operating,102.4
+HDWF3,HDWF3,HORNSDAL3,Hornsdale 3,SA1,wind,GENERATOR,operating,112.0
+HPRG1,0HPRG1,HORNSDPR,Hornsdale Power Reserve,SA1,battery_discharging,GENERATOR,operating,150.0
+HPRL1,0HPRL1,HORNSDPR,Hornsdale Power Reserve,SA1,battery_charging,LOAD,operating,150.0
+HPR1,HPR1,HORNSDPR,Hornsdale Power Reserve,SA1,battery,BIDIRECTIONAL,operating,150.0
+HUGSF1,HUGSF1,HUGSF,Hughenden,QLD1,solar_utility,GENERATOR,operating,20.97
+HUMENSW,HUMENSW,HUMENSW,Hume,NSW1,hydro,GENERATOR,operating,29.0
+HUMEV,HUMEV,HUMEV,Hume,VIC1,hydro,GENERATOR,operating,29.0
+HUNTER1,HUNTER1,HUNTER,Hunter,NSW1,gas_ocgt,GENERATOR,operating,375.0
+HUNTER2,HUNTER2,HUNTER,Hunter,NSW1,gas_ocgt,GENERATOR,operating,375.0
+HEZ1,HEZ1,HEZ,Hunter Economic Zone,NSW1,distillate,GENERATOR,operating,28.0
+INVICTA,INVICTA,INVICTA,Invicta Sugar Mill,QLD1,bioenergy_biomass,GENERATOR,operating,50.3
+ICSM,ICSM,ICSM,Isis Central Sugar Mill,QLD1,bioenergy_biomass,GENERATOR,operating,25.0
+JACKSGUL,JACKSGUL,JACKSGUL,Jacks Gully,NSW1,bioenergy_biogas,GENERATOR,operating,2.3
+JLA01,JLA01,JEERA,Jeeralang A,VIC1,gas_ocgt,GENERATOR,operating,51.0
+JLA03,JLA03,JEERA,Jeeralang A,VIC1,gas_ocgt,GENERATOR,operating,51.0
+JLA04,JLA04,JEERA,Jeeralang A,VIC1,gas_ocgt,GENERATOR,operating,51.0
+JLA02,JLA02,JEERA,Jeeralang A,VIC1,gas_ocgt,GENERATOR,operating,51.0
+JLB01,JLB01,JEERB,Jeeralang B,VIC1,gas_ocgt,GENERATOR,operating,76.0
+JLB03,JLB03,JEERB,Jeeralang B,VIC1,gas_ocgt,GENERATOR,operating,76.0
+JLB02,JLB02,JEERB,Jeeralang B,VIC1,gas_ocgt,GENERATOR,operating,76.0
+JEMALNG1,JEMALNG1,JEMALNG1,Jemalong,NSW1,solar_utility,GENERATOR,operating,55.0
+JNDABNE1,JNDABNE1,JNDSHPS,Jindabyne,NSW1,hydro,GENERATOR,operating,1.1
+SNOWYGJP,SNOWYGJP,SNWYGJP2,Jindabyne Pump At Guthega,NSW1,pumps,GENERATOR,operating,70.0
+JBUTTERS,JBUTTERS,JBUTTERS,John Butters,TAS1,hydro,GENERATOR,operating,144.0
+JOUNAMA1,JOUNAMA1,JOUNAMA,Jounama,NSW1,hydro,GENERATOR,operating,14.0
+JUNEESF1,JUNEESF1,JUNEESF,Junee,NSW1,solar_utility,GENERATOR,operating,36.0
+KABANWF1,KABANWF1,KABANWF,Kaban,QLD1,wind,GENERATOR,operating,156.0
+KARSF1,KARSF1,KARSF,Karadoc,VIC1,solar_utility,GENERATOR,operating,104.0
+KAREEYA3,KAREEYA3,KAREEYA,Kareeya,QLD1,hydro,GENERATOR,operating,21.0
+KAREEYA4,KAREEYA4,KAREEYA,Kareeya,QLD1,hydro,GENERATOR,operating,21.0
+KAREEYA1,KAREEYA1,KAREEYA,Kareeya,QLD1,hydro,GENERATOR,operating,21.0
+KAREEYA2,KAREEYA2,KAREEYA,Kareeya,QLD1,hydro,GENERATOR,operating,21.0
+KAREEYA5,KAREEYA5,KAREEYA,Kareeya,QLD1,hydro,GENERATOR,operating,7.0
+KEEPIT,KEEPIT,KEEPIT,Keepit,NSW1,hydro,GENERATOR,operating,6.0
+KEPBG1,KEPBG1,KENNEDY,Kennedy Energy Park,QLD1,battery_discharging,GENERATOR,operating,2.0
+KEPSF1,KEPSF1,KENNEDY,Kennedy Energy Park,QLD1,solar_utility,GENERATOR,operating,16.0
+KEPWF1,KEPWF1,KENNEDY,Kennedy Energy Park,QLD1,wind,GENERATOR,operating,43.2
+KEPBL1,KEPBL1,KENNEDY,Kennedy Energy Park,QLD1,battery_charging,LOAD,operating,2.0
+KERNGSP1,KERNGSP1,KERNGSP,Kerang,VIC1,solar_utility,GENERATOR,operating,37.0
+KIAMSF1,KIAMSF1,KIAMSF1,Kiamal,VIC1,solar_utility,GENERATOR,operating,239.0
+KIATAWF1,KIATAWF1,KIATAWF,Kiata,VIC1,wind,GENERATOR,operating,31.0
+KSP1,KSP1,KSP1,Kidston,QLD1,solar_utility,GENERATOR,operating,50.0
+KINGASF1,KINGASF1,KINGASF,Kingaroy,QLD1,solar_utility,GENERATOR,operating,47.0
+KPP_1,KPP_1,KOGANCK,Kogan Creek,QLD1,coal_black,GENERATOR,operating,744.0
+KESSG1,0KESSG1,KESS1,Koorangie,VIC1,battery_discharging,GENERATOR,operating,185.0
+KESSB1,KESSB1,KESS1,Koorangie,VIC1,battery,BIDIRECTIONAL,operating,185.0
+KESSL1,0KESSL1,KESS1,Koorangie,VIC1,battery_charging,LOAD,operating,185.0
+LADBROK2,LADBROK2,LADBROKE,Ladbroke Grove,SA1,gas_ocgt,GENERATOR,operating,40.0
+LADBROK1,LADBROK1,LADBROKE,Ladbroke Grove,SA1,gas_ocgt,GENERATOR,operating,40.0
+LBB1,LBB1,LBBESS,Lake Bonney,SA1,battery,BIDIRECTIONAL,operating,25.0
+LBBL1,0LBBL1,LBBESS,Lake Bonney,SA1,battery_charging,LOAD,operating,25.0
+LBBG1,0LBBG1,LBBESS,Lake Bonney,SA1,battery_discharging,GENERATOR,operating,25.0
+LKBONNY1,LKBONNY1,LKBONNY1,Lake Bonney,SA1,wind,GENERATOR,operating,80.5
+LKBONNY2,LKBONNY2,LKBONNY_2,Lake Bonney 2,SA1,wind,GENERATOR,operating,159.0
+LKBONNY3,LKBONNY3,LKBONNY3,Lake Bonney 3,SA1,wind,GENERATOR,operating,39.0
+LK_ECHO,LK_ECHO,LK_ECHO,Lake Echo,TAS1,hydro,GENERATOR,operating,32.4
+LVES1,LVES1,LVES,Latrobe Valley,VIC1,battery,BIDIRECTIONAL,operating,140.0
+LVESL1,0LVESL1,LVES,Latrobe Valley,VIC1,battery_charging,LOAD,operating,140.0
+LVESG1,0LVESG1,LVES,Latrobe Valley,VIC1,battery_discharging,GENERATOR,operating,140.0
+LNGS1,LNGS1,LNGS,Laverton North,VIC1,gas_ocgt,GENERATOR,operating,156.0
+LNGS2,LNGS2,LNGS,Laverton North,VIC1,gas_ocgt,GENERATOR,operating,156.0
+LEM_WIL,LEM_WIL,LEM_WIL,Lemonthyme / Wilmot,TAS1,hydro,GENERATOR,operating,81.6
+LDBESSG1,0LDBESSG1,LDBESS,Liddell,NSW1,battery_discharging,GENERATOR,operating,755.08
+LDBESSL1,0LDBESSL1,LDBESS,Liddell,NSW1,battery_charging,LOAD,operating,755.08
+LDBESS1,LDBESS1,LDBESS,Liddell,NSW1,battery,BIDIRECTIONAL,operating,755.08
+LILYSF1,LILYSF1,LILYVASF,Lilyvale,QLD1,solar_utility,GENERATOR,operating,118.0
+LIMBESSL1,0LIMBESSL1,LIMBESS,Limondale,NSW1,battery_charging,LOAD,operating,141.0
+LIMBESS1,LIMBESS1,LIMBESS,Limondale,NSW1,battery,BIDIRECTIONAL,operating,141.0
+LIMBESSG1,0LIMBESSG1,LIMBESS,Limondale,NSW1,battery_discharging,GENERATOR,operating,141.0
+LIMOSF11,LIMOSF11,LIMOSF1,Limondale,NSW1,solar_utility,GENERATOR,operating,275.0
+LIMOSF21,LIMOSF21,LIMOSF2,Limondale 2,NSW1,solar_utility,GENERATOR,operating,38.0
+LGAPWF2,LGAPWF2,LGAPWF1,Lincoln Gap,SA1,wind,GENERATOR,operating,86.0
+LGAPWF1,LGAPWF1,LGAPWF1,Lincoln Gap,SA1,wind,GENERATOR,operating,126.0
+LGAPBSG1,0LGAPBSG1,LGAPWF1,Lincoln Gap,SA1,battery_discharging,GENERATOR,operating,10.8
+LGAPBSL1,0LGAPBSL1,LGAPWF1,Lincoln Gap,SA1,battery_charging,LOAD,operating,10.8
+LGAPBS1,LGAPBS1,LGAPWF1,Lincoln Gap,SA1,battery,BIDIRECTIONAL,operating,10.8
+LONGFORD,LONGFORD,LONGFORD,Longford,VIC1,gas_ocgt,GENERATOR,operating,13.0
+LRSF1,LRSF1,LRSF,Longreach,QLD1,solar_utility,GENERATOR,operating,17.0
+LONSDALE,LONSDALE,LONSDALE,Lonsdale,SA1,distillate,GENERATOR,operating,20.0
+LYA3,LYA3,LOYYANGA,Loy Yang A,VIC1,coal_brown,GENERATOR,operating,560.0
+LYA2,LYA2,LOYYANGA,Loy Yang A,VIC1,coal_brown,GENERATOR,operating,530.0
+LYA4,LYA4,LOYYANGA,Loy Yang A,VIC1,coal_brown,GENERATOR,operating,560.0
+LYA1,LYA1,LOYYANGA,Loy Yang A,VIC1,coal_brown,GENERATOR,operating,560.0
+LOYYB2,LOYYB2,LOYYB,Loy Yang B,VIC1,coal_brown,GENERATOR,operating,500.0
+LOYYB1,LOYYB1,LOYYB,Loy Yang B,VIC1,coal_brown,GENERATOR,operating,500.0
+LUCASHGT,LUCASHGT,LUCASHGT,Lucas Heights,NSW1,bioenergy_biogas,GENERATOR,operating,12.65
+LUCAS2S2,LUCAS2S2,LUCAS2S2,Lucas Heights 2,NSW1,bioenergy_biogas,GENERATOR,operating,4.6
+MACARTH1,MACARTH1,MACARTH,Macarthur,VIC1,wind,GENERATOR,operating,420.0
+MCINTYR1,MCINTYR1,MCINTYR,MacIntyre,QLD1,wind,GENERATOR,operating,923.0
+MACKNTSH,MACKNTSH,MACKNTSH,Mackintosh,TAS1,hydro,GENERATOR,operating,79.9
+MANSLR1,MANSLR1,MANSLR,Manildra,NSW1,solar_utility,GENERATOR,operating,50.0
+MANNUMB1,MANNUMB1,MANNUMB,Mannum,SA1,battery,BIDIRECTIONAL,operating,131.7
+MANNUMBG1,0MANNUMBG1,MANNUMB,Mannum,SA1,battery_discharging,GENERATOR,operating,131.7
+MANNUMBL1,0MANNUMBL1,MANNUMB,Mannum,SA1,battery_charging,LOAD,operating,131.7
+MANNSF2,MANNSF2,MANNSF,Mannum 2,SA1,solar_utility,GENERATOR,operating,37.0
+MAPS2PV1,MAPS2PV1,MAPS2,Mannum Pumping Station,SA1,solar_utility,GENERATOR,operating,16.5
+MAPS3PV1,MAPS3PV1,MAPS2,Mannum Pumping Station,SA1,solar_utility,GENERATOR,operating,16.5
+MAROOWF1,MAROOWF1,MAROOWF1,Maroona,VIC1,wind,GENERATOR,operating,6.8
+MARYRSF1,MARYRSF1,MARYRSF,Maryrorough,QLD1,solar_utility,GENERATOR,operating,33.0
+MEADOWBK,MEADOWBK,MEADOWBK,Meadowbank,TAS1,hydro,GENERATOR,operating,40.0
+MREHA1,MREHA1,MREH,Melbourne A1,VIC1,battery,BIDIRECTIONAL,operating,215.8
+MREHAG1,0MREHAG1,MREH,Melbourne A1,VIC1,battery_discharging,GENERATOR,operating,215.8
+MREHAL1,0MREHAL1,MREH,Melbourne A1,VIC1,battery_charging,LOAD,operating,215.8
+MREHA2,MREHA2,MREHA2,Melbourne A2,VIC1,battery,BIDIRECTIONAL,operating,215.8
+MREHAL2,0MREHAL2,MREHA2,Melbourne A2,VIC1,battery_charging,LOAD,operating,215.8
+MREHAG2,0MREHAG2,MREHA2,Melbourne A2,VIC1,battery_discharging,GENERATOR,operating,215.8
+MREHAL3,0MREHAL3,MREHA3,Melbourne A3,VIC1,battery_charging,LOAD,operating,215.4
+MREHAG3,0MREHAG3,MREHA3,Melbourne A3,VIC1,battery_discharging,GENERATOR,operating,215.4
+MREHA3,MREHA3,MREHA3,Melbourne A3,VIC1,battery,BIDIRECTIONAL,operating,215.4
+METZSF1,METZSF1,METZSF,Metz N,NSW1,solar_utility,GENERATOR,operating,135.0
+MIDDLSF1,MIDDLSF1,MIDDLSF1,Middlemount,QLD1,solar_utility,GENERATOR,operating,30.0
+MIDLDPS1,MIDLDPS1,MIDLDPS,Midlands,TAS1,hydro,GENERATOR,operating,6.08
+MPP_2,MPP_2,MILLMERN,Millmerran,QLD1,coal_black,GENERATOR,operating,426.0
+MPP_1,MPP_1,MILLMERN,Millmerran,QLD1,coal_black,GENERATOR,operating,426.0
+MINTARO,MINTARO,MINTARO,Mintaro,SA1,gas_ocgt,GENERATOR,operating,90.0
+MINTNL1,MINTNL1,MINTARO,Mintaro,SA1,gas_ocgt,GENERATOR,operating,25.0
+MOKOSF1,MOKOSF1,MOKOSF,Mokoan,VIC1,solar_utility,GENERATOR,operating,58.0
+MOLNGSF1,MOLNGSF1,MOLNGSF1,Molong,NSW1,solar_utility,GENERATOR,operating,36.0
+MOORAWF1,MOORAWF1,MOORAWF1,Moorabool,VIC1,wind,GENERATOR,operating,312.0
+MORANBAH,MORANBAH,MORANBAH,Moranbah,QLD1,gas_recip,GENERATOR,operating,12.56
+MBAHNTH,MBAHNTH,MBAHNTH,Moranbah North,QLD1,gas_wcmg,GENERATOR,operating,63.42
+MOREESF1,MOREESF1,MOREESF,Moree,NSW1,solar_utility,GENERATOR,operating,57.0
+MWPS3PV1,MWPS3PV1,MWPS,Morganwhyalla Pipeline,SA1,solar_utility,GENERATOR,operating,7.0
+MWPS4PV1,MWPS4PV1,MWPS,Morganwhyalla Pipeline,SA1,solar_utility,GENERATOR,operating,5.0
+MWPS1PV1,MWPS1PV1,MWPS,Morganwhyalla Pipeline,SA1,solar_utility,GENERATOR,operating,5.0
+MWPS2PV1,MWPS2PV1,MWPS,Morganwhyalla Pipeline,SA1,solar_utility,GENERATOR,operating,5.0
+MRNBESS1,MRNBESS1,MORNBESS,Mornington,VIC1,battery,BIDIRECTIONAL,operating,336.0
+MRNBESSL1,0MRNBESSL1,MORNBESS,Mornington,VIC1,battery_charging,LOAD,operating,336.0
+MRNBESSG1,0MRNBESSG1,MORNBESS,Mornington,VIC1,battery_discharging,GENERATOR,operating,336.0
+MLB01,MLB01,MLB,Mortlake,VIC1,battery,BIDIRECTIONAL,operating,440.0
+MLMG01,0MLMG01,MLB,Mortlake,VIC1,battery_discharging,GENERATOR,operating,440.0
+MLBL01,0MLBL01,MLB,Mortlake,VIC1,battery_charging,LOAD,operating,440.0
+MORTLK12,MORTLK12,MORTLK,Mortlake,VIC1,gas_ocgt,GENERATOR,operating,283.0
+MORTLK11,MORTLK11,MORTLK,Mortlake,VIC1,gas_ocgt,GENERATOR,operating,283.0
+MRTLSWF1,MRTLSWF1,MRTLSWF,Mortlake South,VIC1,wind,GENERATOR,operating,157.5
+MLWF1,MLWF1,MLWF,Mortons Lane,VIC1,wind,GENERATOR,operating,19.5
+MOUSF1,MOUSF1,MOUSF,Moura,QLD1,solar_utility,GENERATOR,operating,99.0
+MEWF1,MEWF1,MEWF,Mt Emerald,QLD1,wind,GENERATOR,operating,180.0
+MTGELWF1,MTGELWF1,MTGELWF,Mt Gellibrand,VIC1,wind,GENERATOR,operating,138.0
+MERCER01,MERCER01,MTMERCER,Mt Mercer,VIC1,wind,GENERATOR,operating,131.2
+MTMILLAR,MTMILLAR,MTMILLAR,Mt Millar,SA1,wind,GENERATOR,operating,70.0
+MP2,MP2,MP,Mt Piper,NSW1,coal_black,GENERATOR,operating,700.0
+MP1,MP1,MP,Mt Piper,NSW1,coal_black,GENERATOR,operating,700.0
+MSTUART3,MSTUART3,MSTUART,Mt Stuart,QLD1,distillate,GENERATOR,operating,131.0
+MSTUART1,MSTUART1,MSTUART,Mt Stuart,QLD1,distillate,GENERATOR,operating,144.0
+MSTUART2,MSTUART2,MSTUART,Mt Stuart,QLD1,distillate,GENERATOR,operating,144.0
+MLSP1,MLSP1,MLSP,Mugga Lane,NSW1,solar_utility,GENERATOR,operating,12.0
+MUCRKSF1,MUCRKSF1,MUCRKSF,Munna Creek,QLD1,solar_utility,GENERATOR,operating,154.0
+MUWAWF1,MUWAWF1,MUWAWF,Murra Warra,VIC1,wind,GENERATOR,operating,231.8
+MUWAWF2,MUWAWF2,MUWAWF,Murra Warra,VIC1,wind,GENERATOR,operating,209.0
+MURRAY,MURRAY,MURRAY,Murray,VIC1,hydro,GENERATOR,operating,1500.0
+MBPS2PV1,MBPS2PV1,MBPS2,Murray Bridge-Onkaparinga,SA1,solar_utility,GENERATOR,operating,13.75
+MUSSELR1,MUSSELR1,MUSSELRO,Musselroe,TAS1,wind,GENERATOR,operating,168.0
+NASF1,NASF1,NASF,Narromine,NSW1,solar_utility,GENERATOR,operating,10.0
+NEVERSF1,NEVERSF1,NEVERSF,Nevertire,NSW1,solar_utility,GENERATOR,operating,132.0
+NEWENSF1,NEWENSF1,NEWENSF,New England,NSW1,solar_utility,GENERATOR,operating,235.0
+NEWENSF2,NEWENSF2,NEWENSF,New England,NSW1,solar_utility,GENERATOR,operating,235.0
+NESBESSG1,0NESBESSG1,NESBESS1,New England 1,NSW1,battery_discharging,GENERATOR,operating,126.0
+NESBESS1,NESBESS1,NESBESS1,New England 1,NSW1,battery,BIDIRECTIONAL,operating,126.0
+NESBESSL1,0NESBESSL1,NESBESS1,New England 1,NSW1,battery_charging,LOAD,operating,126.0
+NESBESSL2,0NESBESSL2,NESBESS2,New England 2,NSW1,battery_charging,LOAD,operating,126.0
+NESBESS2,NESBESS2,NESBESS2,New England 2,NSW1,battery,BIDIRECTIONAL,operating,126.0
+NESBESSG2,0NESBESSG2,NESBESS2,New England 2,NSW1,battery_discharging,GENERATOR,operating,126.0
+NPS,NPS,NEWPORT,Newport,VIC1,gas_steam,GENERATOR,operating,500.0
+NBHWF1,NBHWF1,NBHWF,North Brown Hill,SA1,wind,GENERATOR,operating,132.3
+NUMURSF1,NUMURSF1,NUMURKSF,Numurkah,VIC1,solar_utility,GENERATOR,operating,112.0
+NYNGAN1,NYNGAN1,NYNGAN,Nyngan,NSW1,solar_utility,GENERATOR,operating,102.14
+OAKEY1,OAKEY1,OAKEY,Oakey,QLD1,gas_ocgt,GENERATOR,operating,141.0
+OAKEY2,OAKEY2,OAKEY,Oakey,QLD1,gas_ocgt,GENERATOR,operating,141.0
+OAKEY2SF,OAKEY2SF,OAKEY2SF,Oakey 2,QLD1,solar_utility,GENERATOR,operating,65.0
+OAKEY1SF,OAKEY1SF,OAKEY1SF,Oakey Solar Farm,QLD1,solar_utility,GENERATOR,operating,30.0
+OAKLAND1,OAKLAND1,OAKLAND,Oaklands Hill,VIC1,wind,GENERATOR,operating,67.0
+OAKYCREK,OAKYCREK,OCPS,Oaky Creek,QLD1,gas_recip,GENERATOR,operating,20.0
+OAKY2,OAKY2,OAKY2,Oaky Creek 2,QLD1,gas_wcmg,GENERATOR,operating,15.0
+ORABESSG1,0ORABESSG1,ORABESS,Orana,NSW1,battery_discharging,GENERATOR,operating,439.0
+ORABESSL1,0ORABESSL1,ORABESS,Orana,NSW1,battery_charging,LOAD,operating,439.0
+ORABESS1,ORABESS1,ORABESS,Orana,NSW1,battery,BIDIRECTIONAL,operating,439.0
+OSB-AG,OSB-AG,OSBORNE,Osborne,SA1,gas_ccgt,GENERATOR,operating,180.0
+PALOONA,PALOONA,PALOONA,Paloona,TAS1,hydro,GENERATOR,operating,28.0
+PARSF1,PARSF1,PSF,Parkes,NSW1,solar_utility,GENERATOR,operating,55.0
+PPCCGT,PPCCGT,NPPPPS,Pelican Point,SA1,gas_ccgt,GENERATOR,operating,478.0
+PIBESSL1,0PIBESSL1,PIBESS,Phillip Island,VIC1,battery_charging,LOAD,operating,7.0
+PIBESSG1,0PIBESSG1,PIBESS,Phillip Island,VIC1,battery_discharging,GENERATOR,operating,7.0
+PIBESS1,PIBESS1,PIBESS,Phillip Island,VIC1,battery,BIDIRECTIONAL,operating,7.0
+PINDARI,PINDARI,PINDARI,Pindari,NSW1,hydro,GENERATOR,operating,6.7
+PIONEER,PIONEER,PIONEER,Pioneer Sugar Mill,QLD1,bioenergy_biomass,GENERATOR,operating,67.78
+POAT110,POAT110,PTINA,Poatina,TAS1,hydro,GENERATOR,operating,100.0
+POAT220,POAT220,PTINA,Poatina,TAS1,hydro,GENERATOR,operating,200.0
+PO110NL1,PO110NL1,PTINA,Poatina,TAS1,hydro,LOAD,operating,25.0
+PAREPW1,PAREPW1,PAREPW,Port Augusta Energy Park,SA1,wind,GENERATOR,operating,210.0
+PAREPS1,PAREPS1,PAREPW,Port Augusta Energy Park,SA1,solar_utility,GENERATOR,operating,99.0
+POR01,POR01,PORTLCN,Port Lincoln,SA1,distillate,GENERATOR,operating,50.0
+POR03,POR03,PORTLCN,Port Lincoln,SA1,distillate,GENERATOR,operating,23.5
+PTSTAN1,PTSTAN1,STANVAC,Port Stanvac,SA1,distillate,GENERATOR,operating,57.6
+PORTWF,PORTWF,PORTWF,Portland,VIC1,wind,GENERATOR,operating,148.0
+QPS1,QPS1,QUARANTN,Quarantine,SA1,gas_ocgt,GENERATOR,operating,29.0
+QPS2,QPS2,QUARANTN,Quarantine,SA1,gas_ocgt,GENERATOR,operating,24.0
+QPS5,QPS5,QUARANTN,Quarantine,SA1,gas_ocgt,GENERATOR,operating,128.0
+QPS4,QPS4,QUARANTN,Quarantine,SA1,gas_ocgt,GENERATOR,operating,24.0
+QPS3,QPS3,QUARANTN,Quarantine,SA1,gas_ocgt,GENERATOR,operating,24.0
+QBYNBL1,0QBYNBL1,QBYNB,Queanbeyan,NSW1,battery_charging,LOAD,operating,10.0
+QBYNB1,QBYNB1,QBYNB,Queanbeyan,NSW1,battery,BIDIRECTIONAL,operating,10.0
+QBYNBG1,0QBYNBG1,QBYNB,Queanbeyan,NSW1,battery_discharging,GENERATOR,operating,10.0
+QPSFB1,QPSFB1,QP,Quorn Park,NSW1,solar_utility,GENERATOR,operating,96.0
+QPSFBL2,0QPSFBL2,QP,Quorn Park,NSW1,battery_charging,LOAD,operating,27.0
+QPSFBG2,0QPSFBG2,QP,Quorn Park,NSW1,battery_discharging,GENERATOR,operating,27.0
+QPSFB2,QPSFB2,QP,Quorn Park,NSW1,battery,BIDIRECTIONAL,operating,27.0
+RACOMIL1,RACOMIL1,RACOMIL,Racecourse Mill,QLD1,bioenergy_biomass,GENERATOR,operating,48.5
+RANGEB1G1,0RANGEB1G1,RANGEB,Rangebank,VIC1,battery_discharging,GENERATOR,operating,260.0
+RANGEB1L1,0RANGEB1L1,RANGEB,Rangebank,VIC1,battery_charging,LOAD,operating,260.8
+RANGEB1,RANGEB1,RANGEB,Rangebank,VIC1,battery,BIDIRECTIONAL,operating,260.0
+REECE2,REECE2,REECE,Reece,TAS1,hydro,GENERATOR,operating,115.6
+REECE1,REECE1,REECE,Reece,TAS1,hydro,GENERATOR,operating,115.6
+REPULSE,REPULSE,REPULSE,Repulse,TAS1,hydro,GENERATOR,operating,28.0
+RESS1G,0RESS1G,RESS,Riverina 1,NSW1,battery_discharging,GENERATOR,operating,80.0
+RESS1L,0RESS1L,RESS,Riverina 1,NSW1,battery_charging,LOAD,operating,80.0
+RESS1,RESS1,RESS,Riverina 1,NSW1,battery,BIDIRECTIONAL,operating,80.0
+RIVNBG2,0RIVNBG2,RIVNB,Riverina 2,NSW1,battery_discharging,GENERATOR,operating,65.0
+RIVNBL2,0RIVNBL2,RIVNB,Riverina 2,NSW1,battery_charging,LOAD,operating,65.0
+RIVNB2,RIVNB2,RIVNB,Riverina 2,NSW1,battery,BIDIRECTIONAL,operating,65.0
+RPCG,RPCG,RPCG,Rocky Point Cogen,QLD1,bioenergy_biomass,GENERATOR,operating,30.0
+ROMA_8,ROMA_8,ROMA,Roma,QLD1,gas_ocgt,GENERATOR,operating,40.0
+ROMA_7,ROMA_7,ROMA,Roma,QLD1,gas_ocgt,GENERATOR,operating,40.0
+RRSF1,RRSF1,RRSF,Ross River,QLD1,solar_utility,GENERATOR,operating,128.0
+ROWALLAN,ROWALLAN,ROWALLAN,Rowallan,TAS1,hydro,GENERATOR,operating,10.5
+ROYALLA1,ROYALLA1,ROYALLA,Royalla,NSW1,solar_utility,GENERATOR,operating,20.0
+RUBICON,RUBICON,RUBICON,Rubicon,VIC1,hydro,GENERATOR,operating,13.0
+RUGBYR1,RUGBYR1,RUGBYR,Rugby Run,QLD1,solar_utility,GENERATOR,operating,83.0
+RYANCWF1,RYANCWF1,RYANCWF,Ryan Corner,VIC1,wind,GENERATOR,operating,218.4
+RYEPARK1,RYEPARK1,RYEPARK,Rye Park,NSW1,wind,GENERATOR,operating,396.0
+SALTCRK1,SALTCRK1,SALTCRK,Salt Creek,VIC1,wind,GENERATOR,operating,54.0
+SAPHWF1,SAPHWF1,SAPHWF1,Sapphire,NSW1,wind,GENERATOR,operating,270.0
+SEBSF1,SEBSF1,SEBSF,Sebastopol,NSW1,solar_utility,GENERATOR,operating,110.0
+SHEP1,SHEP1,SHEP1,Shepparton,VIC1,bioenergy_biogas,GENERATOR,operating,1.1
+SHPUMP,SHPUMP,SHOALHAV,Shoalhaven,NSW1,pumps,GENERATOR,operating,240.0
+SHGEN,SHGEN,SHOALHAV,Shoalhaven,NSW1,hydro,GENERATOR,operating,240.0
+SHOAL1,SHOAL1,SHOAL,Shoalhaven Starches,NSW1,gas_ocgt,GENERATOR,operating,54.0
+STWF1,STWF1,STWF,Silverton,NSW1,wind,GENERATOR,operating,198.94
+SITHE01,SITHE01,SITHE,Smithfield,NSW1,gas_ocgt,GENERATOR,operating,125.0
+SMTHBES1L1,0SMTHBES1L1,SMTHBES1,Smithfield,NSW1,battery_charging,LOAD,operating,69.4
+SMTHBES1G1,0SMTHBES1G1,SMTHBES1,Smithfield,NSW1,battery_discharging,GENERATOR,operating,69.4
+SMTHBES1,SMTHBES1,SMTHBES1,Smithfield,NSW1,battery,BIDIRECTIONAL,operating,69.4
+SNAPPER1,SNAPPER1,SNAPPER,Snapper Point,SA1,gas_ocgt,GENERATOR,operating,154.0
+SNOWTWN1,SNOWTWN1,SNOWTOWN,Snowtown,SA1,wind,GENERATOR,operating,99.0
+SNOWNTH1,SNOWNTH1,SNOWNTH,Snowtown North,SA1,wind,GENERATOR,operating,144.0
+SNOWSTH1,SNOWSTH1,SNOWSTH,Snowtown South,SA1,wind,GENERATOR,operating,126.0
+SNUG1,SNUG1,SNUG,Snuggery,SA1,distillate,GENERATOR,operating,63.0
+SNUGNL1,SNUGNL1,SNUG,Snuggery,SA1,distillate,GENERATOR,operating,21.0
+AGLSOM,AGLSOM,AGLSOM,Somerton,VIC1,gas_ocgt,GENERATOR,operating,170.0
+SKSF1,SKSF1,SKSF,South Keswick,NSW1,solar_utility,GENERATOR,operating,15.0
+STAN-1,STAN-1,STANWELL,Stanwell,QLD1,coal_black,GENERATOR,operating,365.0
+STAN-3,STAN-3,STANWELL,Stanwell,QLD1,coal_black,GENERATOR,operating,365.0
+STAN-4,STAN-4,STANWELL,Stanwell,QLD1,coal_black,GENERATOR,operating,365.0
+STAN-2,STAN-2,STANWELL,Stanwell,QLD1,coal_black,GENERATOR,operating,365.0
+STAPYLTON1,STAPYLTON1,STAPYLTON,Stapylton,QLD1,bioenergy_biogas,GENERATOR,operating,3.0
+STARHLWF,STARHLWF,STARFHILL,Starfish Hill,SA1,wind,GENERATOR,operating,34.5
+STOCKYD1,STOCKYD1,STOCKYD,Stockyard Hill,VIC1,wind,GENERATOR,operating,531.0
+STUBSF1,STUBSF1,STUBSF,Stubbo,NSW1,solar_utility,GENERATOR,operating,255.0
+STUBSF2,STUBSF2,STUBSF,Stubbo,NSW1,solar_utility,GENERATOR,operating,248.0
+SMCSF1,SMCSF1,SMCSF,Sun Metals,QLD1,solar_utility,GENERATOR,operating,143.0
+SUNRSF1,SUNRSF1,SUNRSF1,Sunraysia,NSW1,solar_utility,GENERATOR,operating,228.0
+VALDORA1,VALDORA1,VALDORA,Sunshine Coast,QLD1,solar_utility,GENERATOR,operating,15.0
+SUNTPSF1,SUNTPSF1,SUNTPSF,Suntop,NSW1,solar_utility,GENERATOR,operating,175.0
+SNBG01,0SNBG01,SNB1,Supernode,QLD1,battery_discharging,GENERATOR,operating,337.4
+SNBL01,0SNBL01,SNB1,Supernode,QLD1,battery_charging,LOAD,operating,292.8
+SNB01,SNB01,SNB1,Supernode,QLD1,battery,BIDIRECTIONAL,operating,337.4
+SRSF1,SRSF1,SRSF,Susan River,QLD1,solar_utility,GENERATOR,operating,85.0
+SWANBBFG1,0SWANBBFG1,SWANBBF,Swanbank,QLD1,battery_discharging,GENERATOR,operating,331.2
+SWANBBFL1,0SWANBBFL1,SWANBBF,Swanbank,QLD1,battery_charging,LOAD,operating,331.2
+SWANBBF1,SWANBBF1,SWANBBF,Swanbank,QLD1,battery,BIDIRECTIONAL,operating,331.2
+SWAN_E,SWAN_E,SWAN_E,Swanbank E,QLD1,gas_ccgt,GENERATOR,operating,385.0
+TABMILL2,TABMILL2,TABMILL2,Tableland Mill,QLD1,bioenergy_biomass,GENERATOR,operating,24.0
+TAHMOOR1,TAHMOOR1,TAHMOOR,Tahmoor,NSW1,gas_wcmg,GENERATOR,operating,7.04
+TBSF1,TBSF1,TBSF,Tailem Bend,SA1,solar_utility,GENERATOR,operating,108.0
+TB2SF1,TB2SF1,TB2SF,Tailem Bend 2,SA1,solar_utility,GENERATOR,operating,105.0
+TB2BG1,0TB2BG1,TB2SF,Tailem Bend 2,SA1,battery_charging,LOAD,operating,50.0
+TB2BL1,0TB2BL1,TB2SF,Tailem Bend 2,SA1,battery_discharging,GENERATOR,operating,50.0
+TB2B1,TB2B1,TB2SF,Tailem Bend 2,SA1,battery,BIDIRECTIONAL,operating,50.0
+TALWA1,TALWA1,TALLAWAR,Tallawarra,NSW1,gas_ccgt,GENERATOR,operating,440.0
+TALWB1,TALWB1,TALWB,Tallawarra B,NSW1,gas_ocgt,GENERATOR,operating,320.0
+TVCC201,TVCC201,TVCCPS,Tamar Valley,TAS1,gas_ccgt,GENERATOR,operating,208.6
+TARALGA1,TARALGA1,TARALGA,Taralga,NSW1,wind,GENERATOR,operating,106.8
+TARBESSL1,0TARBESSL1,TARBESS,Tarong,QLD1,battery_charging,LOAD,operating,393.0
+TARBESS1,TARBESS1,TARBESS,Tarong,QLD1,battery,BIDIRECTIONAL,operating,393.0
+TARBESSG1,0TARBESSG1,TARBESS,Tarong,QLD1,battery_discharging,GENERATOR,operating,393.0
+TARONG#3,TARONG#3,TARONG,Tarong,QLD1,coal_black,GENERATOR,operating,350.0
+TARONG#4,TARONG#4,TARONG,Tarong,QLD1,coal_black,GENERATOR,operating,350.0
+TARONG#1,TARONG#1,TARONG,Tarong,QLD1,coal_black,GENERATOR,operating,350.0
+TARONG#2,TARONG#2,TARONG,Tarong,QLD1,coal_black,GENERATOR,operating,350.0
+TNPS1,TNPS1,TARONGN,Tarong North,QLD1,coal_black,GENERATOR,operating,443.0
+TARRALEA,TARRALEA,TARRALEA,Tarraleah,TAS1,hydro,GENERATOR,operating,90.0
+TATIARA1,TATIARA1,TATIARA,Tataria,SA1,distillate,GENERATOR,operating,0.5
+TATURA01,TATURA01,TATURA,Tatura,VIC1,bioenergy_biogas,GENERATOR,operating,1.1
+TEMPBL1,0TEMPBL1,TEMPB,Templers,SA1,battery_charging,LOAD,operating,138.0
+TEMPB1,TEMPB1,TEMPB,Templers,SA1,battery,BIDIRECTIONAL,operating,138.0
+TEMPBG1,0TEMPBG1,TEMPB,Templers,SA1,battery_discharging,GENERATOR,operating,138.0
+TRGBESSL1,0TRGBESSL1,TERANGBESS,Terang,VIC1,battery_charging,LOAD,operating,100.0
+TRGBESSG1,0TRGBESSG1,TERANGBESS,Terang,VIC1,battery_discharging,GENERATOR,operating,100.0
+TRGBESS1,TRGBESS1,TERANGBESS,Terang,VIC1,battery,BIDIRECTIONAL,operating,100.0
+BLUFF1,BLUFF1,BLUFF,The Bluff,SA1,wind,GENERATOR,operating,52.5
+THEDROP1,THEDROP1,THEDROP,The Drop,NSW1,hydro,GENERATOR,operating,2.5
+TIMWEST,TIMWEST,TIMWEST,Timboon West,VIC1,wind,GENERATOR,operating,7.2
+TOORAWF,TOORAWF,TOORAWF,Toora,VIC1,wind,GENERATOR,operating,21.0
+TIBL1,0TIBL1,TIB,Torrens Island,SA1,battery_charging,LOAD,operating,250.0
+TIBG1,0TIBG1,TIB,Torrens Island,SA1,battery_discharging,GENERATOR,operating,250.0
+TIB1,TIB1,TIB,Torrens Island,SA1,battery,BIDIRECTIONAL,operating,250.0
+TORRB4,TORRB4,TORRIS,Torrens Island,SA1,gas_steam,GENERATOR,operating,200.0
+TORRB2,TORRB2,TORRIS,Torrens Island,SA1,gas_steam,GENERATOR,operating,200.0
+TORRB3,TORRB3,TORRIS,Torrens Island,SA1,gas_steam,GENERATOR,operating,200.0
+TORRB1,TORRB1,TORRIS,Torrens Island,SA1,gas_steam,GENERATOR,operating,200.0
+TOWER,TOWER,TOWER,Tower,NSW1,gas_wcmg,GENERATOR,operating,41.2
+YABULU,YABULU,YABULU,Townsville,QLD1,gas_ccgt,GENERATOR,operating,160.0
+YABULU2,YABULU2,YABULU,Townsville,QLD1,gas_ccgt,GENERATOR,operating,82.0
+TGNSS1,TGNSS1,TGNSS,Traralgon Network Support,VIC1,gas_recip,GENERATOR,operating,10.0
+TREVALLN,TREVALLN,TREVALLN,Trevallyn,TAS1,hydro,GENERATOR,operating,93.0
+TRIBUTE,TRIBUTE,TRIBUTE,Tribute,TAS1,hydro,GENERATOR,operating,82.8
+TRIBNL1,TRIBNL1,TRIBUTE,Tribute,TAS1,hydro,GENERATOR,operating,25.0
+TULLYSM1,TULLYSM1,TULLYSM,Tully Sugar Mill,QLD1,bioenergy_biomass,GENERATOR,operating,32.0
+UPPTUMUT,UPPTUMUT,SNOWY2,Tumut,NSW1,hydro,GENERATOR,operating,616.0
+TUMUT3,TUMUT3,TUMUT3,Tumut 3,NSW1,hydro,GENERATOR,operating,1500.0
+SNOWYP,SNOWYP,TUMUT3,Tumut 3,NSW1,pumps,GENERATOR,operating,600.0
+TUNGATIN,TUNGATIN,TUNGATIN,Tungatinah,TAS1,hydro,GENERATOR,operating,125.0
+ULPBESSL1,0ULPBESSL1,ULBESS,Ulinda Park,QLD1,battery_charging,LOAD,operating,197.0
+ULPBESSG1,0ULPBESSG1,ULBESS,Ulinda Park,QLD1,battery_discharging,GENERATOR,operating,197.0
+ULPBESS1,ULPBESS1,ULBESS,Ulinda Park,QLD1,battery,BIDIRECTIONAL,operating,197.0
+URANQ11,URANQ11,URANQ,Uranquinty,NSW1,gas_ocgt,GENERATOR,operating,166.0
+URANQ14,URANQ14,URANQ,Uranquinty,NSW1,gas_ocgt,GENERATOR,operating,166.0
+URANQ12,URANQ12,URANQ,Uranquinty,NSW1,gas_ocgt,GENERATOR,operating,166.0
+URANQ13,URANQ13,URANQ,Uranquinty,NSW1,gas_ocgt,GENERATOR,operating,166.0
+VP6,VP6,VP,Vales Point B,NSW1,coal_black,GENERATOR,operating,660.0
+VP5,VP5,VP,Vales Point B,NSW1,coal_black,GENERATOR,operating,660.0
+VPGS5,VPGS5,VPGS,Valley Power Peaking,VIC1,gas_ocgt,GENERATOR,operating,50.0
+VPGS1,VPGS1,VPGS,Valley Power Peaking,VIC1,gas_ocgt,GENERATOR,operating,50.0
+VPGS6,VPGS6,VPGS,Valley Power Peaking,VIC1,gas_ocgt,GENERATOR,operating,50.0
+VPGS4,VPGS4,VPGS,Valley Power Peaking,VIC1,gas_ocgt,GENERATOR,operating,50.0
+VPGS2,VPGS2,VPGS,Valley Power Peaking,VIC1,gas_ocgt,GENERATOR,operating,50.0
+VPGS3,VPGS3,VPGS,Valley Power Peaking,VIC1,gas_ocgt,GENERATOR,operating,50.0
+TITREE,TITREE,TITREE,Veolia Ti Tree,QLD1,bioenergy_biogas,GENERATOR,operating,2.0
+VICMILL1,VICMILL1,VICMILL,Victoria Mill,QLD1,bioenergy_biomass,GENERATOR,operating,24.0
+VBBL1,0VBBL1,VBB,Victorian Big Battery,VIC1,battery_charging,LOAD,operating,360.0
+VBB1,VBB1,VBB,Victorian Big Battery,VIC1,battery,BIDIRECTIONAL,operating,360.0
+VBBG1,0VBBG1,VBB,Victorian Big Battery,VIC1,battery_discharging,GENERATOR,operating,360.0
+WAGGNSF1,WAGGNSF1,WAGGNSF,Wagga North,NSW1,solar_utility,GENERATOR,operating,55.0
+WLWLSF1,WLWLSF1,WLWLSF,Walla Walla,NSW1,solar_utility,GENERATOR,operating,201.6
+WLWLSF2,WLWLSF2,WLWLSF,Walla Walla,NSW1,solar_utility,GENERATOR,operating,201.6
+WALGRVL1,0WALGRVL1,WALGRV,Wallgrove,NSW1,battery_charging,LOAD,operating,50.0
+WALGRV1,WALGRV1,WALGRV,Wallgrove,NSW1,battery,BIDIRECTIONAL,operating,50.0
+WALGRVG1,0WALGRVG1,WALGRV,Wallgrove,NSW1,battery_discharging,GENERATOR,operating,50.0
+PRDSO_WALPOLE_HG1,PRDSO_WALPOLE_HG1,PRDSO_WALPOLE,Walpole,WEM,hydro,GENERATOR,operating,1.5
+WAMBOWF1,WAMBOWF1,WAMBOWF,Wambo,QLD1,wind,GENERATOR,operating,252.0
+WANDSF1,WANDSF1,WANDSF,Wandoan,QLD1,solar_utility,GENERATOR,operating,159.0
+WANDBL1,0WANDBL1,WANDBG,Wandoan South,QLD1,battery_charging,LOAD,operating,123.0
+WANDB1,WANDB1,WANDBG,Wandoan South,QLD1,battery,BIDIRECTIONAL,operating,123.0
+WANDBG1,0WANDBG1,WANDBG,Wandoan South,QLD1,battery_discharging,GENERATOR,operating,123.0
+WNSF1,WNSF1,WNSF,Wangaratta,VIC1,solar_utility,GENERATOR,operating,26.4
+WTAHB1G1,0WTAHB1G1,WTAHB,Waratah Super Battery,NSW1,battery_discharging,GENERATOR,operating,1095.84
+WTAHB1L1,0WTAHB1L1,WTAHB,Waratah Super Battery,NSW1,battery_charging,LOAD,operating,1095.84
+WTAHB1,WTAHB1,WTAHB,Waratah Super Battery,NSW1,battery,BIDIRECTIONAL,operating,1095.84
+WARWSF1,WARWSF1,WARWSF,Warwick,QLD1,solar_utility,GENERATOR,operating,39.0
+WARWSF2,WARWSF2,WARWSF,Warwick,QLD1,solar_utility,GENERATOR,operating,39.0
+WATERLWF,WATERLWF,WATERLWF,Waterloo,SA1,wind,GENERATOR,operating,130.8
+WPWF,WPWF,WPWF,Wattle Point,SA1,wind,GENERATOR,operating,91.0
+WAUBRAWF,WAUBRAWF,WAUBRAWF,Waubra,VIC1,wind,GENERATOR,operating,192.0
+WELLSF1,WELLSF1,WELLSF1,Wellington,NSW1,solar_utility,GENERATOR,operating,216.0
+WELNSF1,WELNSF1,WELNSF,Wellington North,NSW1,solar_utility,GENERATOR,operating,436.0
+WEMENSF1,WEMENSF1,WEMENSF1,Wemen,VIC1,solar_utility,GENERATOR,operating,97.0
+WESTILL1,WESTILL1,WESTILLA,West Illawarra Leagues Club,NSW1,distillate,GENERATOR,operating,1.0
+WKIEWA1,WKIEWA1,WKIEWA,West Kiewa,VIC1,hydro,GENERATOR,operating,31.0
+WKIEWA2,WKIEWA2,WKIEWA,West Kiewa,VIC1,hydro,GENERATOR,operating,31.0
+WSTWYSF1,WSTWYSF1,WSTWYSF,West Wyalong,NSW1,solar_utility,GENERATOR,operating,105.0
+WDBESSL1,0WDBESSL1,WDBESS,Western Downs,QLD1,battery_charging,LOAD,operating,272.48
+WDBESSG1,0WDBESSG1,WDBESS,Western Downs,QLD1,battery_discharging,GENERATOR,operating,272.48
+WDBESS1,WDBESS1,WDBESS,Western Downs,QLD1,battery,BIDIRECTIONAL,operating,272.48
+WDGPH1,WDGPH1,WDGPH,Western Downs,QLD1,solar_utility,GENERATOR,operating,501.0
+WDBESSG2,0WDBESSG2,WDBESS2,Western Downs 2,QLD1,battery_discharging,GENERATOR,operating,269.8
+WDBESSL2,0WDBESSL2,WDBESS2,Western Downs 2,QLD1,battery_charging,LOAD,operating,269.8
+WDBESS2,WDBESS2,WDBESS2,Western Downs 2,QLD1,battery,BIDIRECTIONAL,operating,269.8
+WRSF1,WRSF1,WRSF1,White Rock Solar Farm,NSW1,solar_utility,GENERATOR,operating,22.0
+WRWF1,WRWF1,WRWF1,White Rock Wind Farm,NSW1,wind,GENERATOR,operating,175.0
+WHITSF1,WHITSF1,WHITSF,Whitsunday,QLD1,solar_utility,GENERATOR,operating,57.5
+WHIT1,WHIT1,WHIT1,Whitwood Road,QLD1,bioenergy_biogas,GENERATOR,operating,1.0
+WILGAPK,WILGAPK,WILGAPK,Wilga Park,NSW1,gas_recip,GENERATOR,operating,10.0
+WILGB01,WILGB01,WILGAPKB,Wilga Park B,NSW1,gas_recip,GENERATOR,operating,12.0
+WILLHOV1,WILLHOV1,WILLHOV,William Hovel,VIC1,hydro,GENERATOR,operating,1.5
+WGWF1,WGWF1,WGWF,Willogoleche,SA1,wind,GENERATOR,operating,119.0
+WHILL1,WHILL1,WINDHILL,Windy Hill,QLD1,wind,GENERATOR,operating,12.0
+WINGF1_1,WINGF1_1,WINGF1,Wingfield,SA1,bioenergy_biogas,GENERATOR,operating,4.12
+WINGF2_1,WINGF2_1,WINGF2,Wingfield 2,SA1,bioenergy_biogas,GENERATOR,operating,4.12
+WINTSF1,WINTSF1,WINTSF1,Winton,VIC1,solar_utility,GENERATOR,operating,107.0
+W/HOE#2,W/HOE#2,WIVENHOE,Wivenhoe,QLD1,hydro,GENERATOR,operating,285.0
+PUMP2,PUMP2,WIVENHOE,Wivenhoe,QLD1,pumps,GENERATOR,operating,240.0
+W/HOE#1,W/HOE#1,WIVENHOE,Wivenhoe,QLD1,hydro,GENERATOR,operating,285.0
+PUMP1,PUMP1,WIVENHOE,Wivenhoe,QLD1,pumps,GENERATOR,operating,240.0
+WOLARSF1,WOLARSF1,WOLARSF,Wollar,NSW1,solar_utility,GENERATOR,operating,324.0
+WOLLERT1,WOLLERT1,WOLLERT,Wollert,VIC1,bioenergy_biogas,GENERATOR,operating,7.0
+WONWP,WONWP,WONWP,Wonthaggi,VIC1,wind,GENERATOR,operating,12.0
+WDLNGN01,WDLNGN01,WDLNGN,Woodlawn,NSW1,bioenergy_biogas,GENERATOR,operating,7.0
+WOODLWN1,WOODLWN1,WOODLWN,Woodlawn,NSW1,wind,GENERATOR,operating,48.3
+WOOLNTH1,WOOLNTH1,WOOLNTH1,Woolnorth,TAS1,wind,GENERATOR,operating,140.0
+WOOLGSF1,WOOLGSF1,WOOLGSF,Woolooga,QLD1,solar_utility,GENERATOR,operating,222.5
+WUNUSF1,WUNUSF1,WUNUSF,Wunghnu,VIC1,solar_utility,GENERATOR,operating,93.5
+WYASF1,WYASF1,WYASF,Wyalong,NSW1,solar_utility,GENERATOR,operating,62.32
+WYANGALA,WYANGALA,WYANGALA,Wyangala A,NSW1,hydro,GENERATOR,operating,20.0
+WYANGALB,WYANGALB,WYANGALB,Wyangala B,NSW1,hydro,GENERATOR,operating,4.0
+YWPS1,YWPS1,YALLOURN,Yallourn W,VIC1,coal_brown,GENERATOR,operating,360.0
+YWPS2,YWPS2,YALLOURN,Yallourn W,VIC1,coal_brown,GENERATOR,operating,360.0
+YWPS3,YWPS3,YALLOURN,Yallourn W,VIC1,coal_brown,GENERATOR,operating,380.0
+YWPS4,YWPS4,YALLOURN,Yallourn W,VIC1,coal_brown,GENERATOR,operating,380.0
+YSWF1,YSWF1,YSWF,Yaloak South,VIC1,wind,GENERATOR,operating,28.7
+YAMBUKWF,YAMBUKWF,YAMBUK,Yambuk,VIC1,wind,GENERATOR,operating,30.0
+YARANSF1,YARANSF1,YARANSF,Yarranlea,QLD1,solar_utility,GENERATOR,operating,121.0
+YWNGAHYD,YWNGAHYD,YWNGAHYD,Yarrawonga,VIC1,hydro,GENERATOR,operating,9.0
+YARWUN_1,YARWUN_1,YARWUN,Yarwun,QLD1,gas_ccgt,GENERATOR,operating,154.0
+YATSF1,YATSF1,YATSF1,Yatpool,VIC1,solar_utility,GENERATOR,operating,94.0
+YAWWF1,YAWWF1,YAWWF,Yawong,VIC1,wind,GENERATOR,operating,7.2
+YENDWF1,YENDWF1,YENDONWF,Yendon,VIC1,wind,GENERATOR,operating,144.4
