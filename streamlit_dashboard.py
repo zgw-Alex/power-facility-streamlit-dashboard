@@ -71,6 +71,7 @@ def get_mqtt_store() -> dict:
         "lock": threading.Lock(),
         "client": None,
         "receive_enabled": True,
+        "connection_error": None,
     }
 
     def on_connect(client, userdata, flags, rc):
@@ -92,9 +93,12 @@ def get_mqtt_store() -> dict:
     client = make_mqtt_client(f"comp5339_streamlit_dashboard_{int(time.time())}")
     client.on_connect = on_connect
     client.on_message = on_message
-    client.connect(BROKER, PORT, keepalive=60)
-    client.loop_start()
-    store["client"] = client
+    try:
+        client.connect(BROKER, PORT, keepalive=60)
+        client.loop_start()
+        store["client"] = client
+    except Exception as exc:
+        store["connection_error"] = str(exc)
     return store
 
 def get_dashboard_df(use_live_messages: bool, mqtt_store: dict) -> pd.DataFrame:
@@ -272,6 +276,12 @@ st.caption(
     f"Latest event time: {latest_timestamp} | MQTT receiving: {receive_status} | "
     f"Display mode: {display_mode} | Broker: {BROKER}:{PORT} | Topic: {TOPIC}"
 )
+
+if mqtt_store.get("connection_error"):
+    st.warning(
+        "MQTT live connection is unavailable, so the dashboard is showing cached data. "
+        f"Connection error: {mqtt_store['connection_error']}"
+    )
 
 facility_map = build_facility_map(filtered_df, metric)
 
